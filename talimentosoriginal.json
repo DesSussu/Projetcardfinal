@@ -1,0 +1,4493 @@
+[
+    {
+     "alimento": "Aceite",
+     "medida": "1 cucharada",
+     "equivalencia": "10 cc",
+     "calorias": 90,
+     "proteinas": null,
+     "lipidos": 10.2,
+     "hc": null,
+     "src":"./img/1.png"
+    },
+    {
+     "alimento": "Aceituna",
+     "medida": "2 unidades",
+     "equivalencia": "17 gr.",
+     "calorias": 35,
+     "proteinas": 0,
+     "lipidos": 30,
+     "hc": 2,
+     "src":"./img/3.png"
+    },
+    {
+     "alimento": "Acelgas cocidas",
+     "medida": "1\/2 Taza",
+     "equivalencia": "100 gr",
+     "calorias": 23,
+     "proteinas": 1.9,
+     "lipidos": 0.5,
+     "hc": 3.5,
+     "src":"./img/4.png"
+    },
+    {
+     "alimento": "Acelgas jugo",
+     "medida": "1\/2 Taza",
+     "equivalencia": "100 gr",
+     "calorias": 8,
+     "proteinas": 1.5,
+     "lipidos": null,
+     "hc": 3.5,
+     "src":"./img/5.png"
+    },
+    {
+     "alimento": "Achicoria",
+     "medida": "12 Hojas",
+     "equivalencia": "100 gr",
+     "calorias": 13,
+     "proteinas": 1.4,
+     "lipidos": 0.1,
+     "hc": 3.5,
+     "src":"./img/6.png"
+    },
+    {
+     "alimento": "Agua Mineral",
+     "medida": "1 Vaso ch",
+     "equivalencia": "100 cc",
+     "calorias": null,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 3.5,
+     "src":"./img/7.png"
+    },
+    {
+     "alimento": "Aguardiente",
+     "medida": "1 Vaso",
+     "equivalencia": "100 cc",
+     "calorias": 280,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 3.5,
+     "src":"./img/8.png"
+    },
+    {
+     "alimento": "Aguardiente de fruta",
+     "medida": "1 Vaso",
+     "equivalencia": "100 cc",
+     "calorias": 350,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 3.5,
+     "src":"./img/9.png"
+    },
+    {
+     "alimento": "Agua Tónica",
+     "medida": "1 Vaso ch",
+     "equivalencia": "100 cc",
+     "calorias": 39,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 3.5,
+     "src":"./img/10.png"
+    },
+    {
+     "alimento": "Ajiaco",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 300,
+     "proteinas": 17.6,
+     "lipidos": 16.6,
+     "hc": 26
+    },
+    {
+     "alimento": "Ají Verde",
+     "medida": "1 Mediano",
+     "equivalencia": "50 gr.",
+     "calorias": 16,
+     "proteinas": 0.8,
+     "lipidos": 0.1,
+     "hc": 3.2
+    },
+    {
+     "alimento": "Albacora a la Plancha",
+     "medida": "1 Porción",
+     "equivalencia": "150 gr.",
+     "calorias": 200,
+     "proteinas": 28.4,
+     "lipidos": 7.5,
+     "hc": 0.5
+    },
+    {
+     "alimento": "Albacora al Vapor",
+     "medida": "1 Porción",
+     "equivalencia": "150 gr.",
+     "calorias": 162,
+     "proteinas": 28.4,
+     "lipidos": 4.5,
+     "hc": 0.2
+    },
+    {
+     "alimento": "Albóndiga",
+     "medida": "1 Unidad",
+     "equivalencia": "80 gr.",
+     "calorias": 165,
+     "proteinas": 15,
+     "lipidos": 7,
+     "hc": 8
+    },
+    {
+     "alimento": "Alcachofa",
+     "medida": "1 Chica",
+     "equivalencia": "200 gr.",
+     "calorias": 58,
+     "proteinas": 1.5,
+     "lipidos": 0.4,
+     "hc": 11.9
+    },
+    {
+     "alimento": "Alcachofa mayo",
+     "medida": "1 Unidad",
+     "equivalencia": null,
+     "calorias": 185,
+     "proteinas": 3.2,
+     "lipidos": 13.2,
+     "hc": 13.8
+    },
+    {
+     "alimento": "Alcachofa Vinagreta",
+     "medida": "1 Unidad",
+     "equivalencia": "40 gr.",
+     "calorias": 23,
+     "proteinas": "0,6",
+     "lipidos": "0,1",
+     "hc": "4,7"
+    },
+    {
+     "alimento": "Almejas",
+     "medida": "10 Unidades",
+     "equivalencia": "100 gr.",
+     "calorias": 78,
+     "proteinas": 13,
+     "lipidos": 2,
+     "hc": 2
+    },
+    {
+     "alimento": "Almejas al Matico",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 186,
+     "proteinas": 20.4,
+     "lipidos": 8,
+     "hc": 12.6
+    },
+    {
+     "alimento": "Almejas al natural",
+     "medida": "10 Unidades",
+     "equivalencia": "100 gr.",
+     "calorias": 115,
+     "proteinas": 20,
+     "lipidos": 3.3,
+     "hc": 2
+    },
+    {
+     "alimento": "Almejas en conserva",
+     "medida": "1 Tarro",
+     "equivalencia": "240 gr.",
+     "calorias": 182,
+     "proteinas": 30.2,
+     "lipidos": 3.8,
+     "hc": 4.8
+    },
+    {
+     "alimento": "Almendras",
+     "medida": "1 Unidad",
+     "equivalencia": "2 gr.",
+     "calorias": 11,
+     "proteinas": 0.4,
+     "lipidos": 0.9,
+     "hc": 0.5
+    },
+    {
+     "alimento": "Almendras",
+     "medida": "1 Taza",
+     "equivalencia": "120 gr.",
+     "calorias": 641,
+     "proteinas": 21.6,
+     "lipidos": 52,
+     "hc": 32.4
+    },
+    {
+     "alimento": "Anchoas en conservas",
+     "medida": "1 Lata",
+     "equivalencia": "75 gr.",
+     "calorias": 100,
+     "proteinas": 11,
+     "lipidos": 6,
+     "hc": null
+    },
+    {
+     "alimento": "Anís",
+     "medida": "1 Copita",
+     "equivalencia": "50 cc",
+     "calorias": 185,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "18°"
+    },
+    {
+     "alimento": "Apio",
+     "medida": "1 Taza",
+     "equivalencia": "100 gr.",
+     "calorias": 17,
+     "proteinas": 0.7,
+     "lipidos": 0.2,
+     "hc": 3.4
+    },
+    {
+     "alimento": "Arroz a la Valenciana",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 594,
+     "proteinas": 40,
+     "lipidos": 12.9,
+     "hc": 71.4
+    },
+    {
+     "alimento": "Arroz Cocido",
+     "medida": "1 Taza",
+     "equivalencia": "70 gr.",
+     "calorias": 250,
+     "proteinas": 4.3,
+     "lipidos": 0.2,
+     "hc": 55.8
+    },
+    {
+     "alimento": "Arroz con Leche",
+     "medida": "1 Compota",
+     "equivalencia": null,
+     "calorias": 264,
+     "proteinas": 7,
+     "lipidos": 5.8,
+     "hc": 46.1
+    },
+    {
+     "alimento": "Arroz Crudo",
+     "medida": "1 Cucharada",
+     "equivalencia": "20 gr.",
+     "calorias": 72,
+     "proteinas": 1.3,
+     "lipidos": 0.1,
+     "hc": 15.7
+    },
+    {
+     "alimento": "Arroz Graneado",
+     "medida": "1 Taza",
+     "equivalencia": null,
+     "calorias": 335,
+     "proteinas": 5.1,
+     "lipidos": 11.4,
+     "hc": 63.7
+    },
+    {
+     "alimento": "Arvejas",
+     "medida": "1\/2 Taza coc",
+     "equivalencia": "100 gr.",
+     "calorias": 60,
+     "proteinas": 3,
+     "lipidos": 0,
+     "hc": 11
+    },
+    {
+     "alimento": "Arvejas",
+     "medida": "1 Tarro",
+     "equivalencia": "300 gr.",
+     "calorias": 180,
+     "proteinas": 9,
+     "lipidos": 0,
+     "hc": 33
+    },
+    {
+     "alimento": "Atún",
+     "medida": "1 Tarro",
+     "equivalencia": "370 gr.",
+     "calorias": 470,
+     "proteinas": 10.4,
+     "lipidos": 3,
+     "hc": null
+    },
+    {
+     "alimento": "Atún con Salsa Verde",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 150,
+     "proteinas": 9.1,
+     "lipidos": 1.2,
+     "hc": 9.8
+    },
+    {
+     "alimento": "Atún en aceite",
+     "medida": "1 Porción",
+     "equivalencia": "50 gr.",
+     "calorias": 106,
+     "proteinas": 15.6,
+     "lipidos": 4.4,
+     "hc": null
+    },
+    {
+     "alimento": "Avellanas",
+     "medida": "1 Unidad",
+     "equivalencia": "2 gr.",
+     "calorias": 13,
+     "proteinas": 0.3,
+     "lipidos": 1.2,
+     "hc": 0.2
+    },
+    {
+     "alimento": "Aves de caza (General)",
+     "medida": "1 Porción",
+     "equivalencia": "120gr.",
+     "calorias": 120,
+     "proteinas": 20,
+     "lipidos": 3.1,
+     "hc": 4
+    },
+    {
+     "alimento": "Azúcar",
+     "medida": "1 Cuchdita",
+     "equivalencia": "5 gr.",
+     "calorias": 20,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 5
+    },
+    {
+     "alimento": "Bacalao a la Parrilla",
+     "medida": "1 Porción",
+     "equivalencia": "150 gr.",
+     "calorias": 180,
+     "proteinas": 32,
+     "lipidos": 6,
+     "hc": null
+    },
+    {
+     "alimento": "Batidos y Flanes (yogurt)",
+     "medida": "1 Unidad",
+     "equivalencia": "175 gr.",
+     "calorias": 182,
+     "proteinas": 6.3,
+     "lipidos": 4.4,
+     "hc": 29.8
+    },
+    {
+     "alimento": "Bavarois",
+     "medida": "1 Compota",
+     "equivalencia": null,
+     "calorias": 145,
+     "proteinas": 2.3,
+     "lipidos": 1.6,
+     "hc": 31.1
+    },
+    {
+     "alimento": "Berenjenas",
+     "medida": "1 Medida",
+     "equivalencia": "150 gr.",
+     "calorias": 25,
+     "proteinas": 0.9,
+     "lipidos": 0.3,
+     "hc": 5
+    },
+    {
+     "alimento": "Berlín",
+     "medida": "1 Unidad",
+     "equivalencia": "150 gr.",
+     "calorias": 591,
+     "proteinas": 6,
+     "lipidos": 21,
+     "hc": 108
+    },
+    {
+     "alimento": "Berro",
+     "medida": "1 Taza cruda",
+     "equivalencia": "100 gr.",
+     "calorias": 13,
+     "proteinas": 3,
+     "lipidos": 0.3,
+     "hc": 1.9
+    },
+    {
+     "alimento": "Betarraga",
+     "medida": "1 Regular",
+     "equivalencia": "100 gr.",
+     "calorias": 39,
+     "proteinas": 1,
+     "lipidos": 0.2,
+     "hc": 7.9
+    },
+    {
+     "alimento": "Betarraga Jugo",
+     "medida": "1 Taza",
+     "equivalencia": "100 cc",
+     "calorias": 36,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 9
+    },
+    {
+     "alimento": "Bilz",
+     "medida": "1 Vaso ch",
+     "equivalencia": "100 cc",
+     "calorias": 36,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 9
+    },
+    {
+     "alimento": "Bizcochuelo",
+     "medida": "1 Porción",
+     "equivalencia": "100 gr.",
+     "calorias": 201,
+     "proteinas": 6,
+     "lipidos": 3,
+     "hc": 37
+    },
+    {
+     "alimento": "Bistec a la Plancha",
+     "medida": "1 Unidad",
+     "equivalencia": "150 gr.",
+     "calorias": 180,
+     "proteinas": 32.1,
+     "lipidos": 4.7,
+     "hc": 3.6
+    },
+    {
+     "alimento": "Bistec Alemán",
+     "medida": "1 Porción",
+     "equivalencia": "120 gr.",
+     "calorias": 159,
+     "proteinas": 23.6,
+     "lipidos": 6.1,
+     "hc": 2.4
+    },
+    {
+     "alimento": "Bistec a lo Pobre",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 796,
+     "proteinas": 57.5,
+     "lipidos": 45.5,
+     "hc": 57.6
+    },
+    {
+     "alimento": "Bistec en Aceite",
+     "medida": "1 Unidad",
+     "equivalencia": "150 gr.",
+     "calorias": 225,
+     "proteinas": 32.1,
+     "lipidos": 9.7,
+     "hc": 3.6
+    },
+    {
+     "alimento": "Bombones",
+     "medida": "1 Unidad",
+     "equivalencia": "8 gr.",
+     "calorias": 36,
+     "proteinas": 1,
+     "lipidos": null,
+     "hc": 8
+    },
+    {
+     "alimento": "Brandy",
+     "medida": "1 Copita",
+     "equivalencia": "30 gr.",
+     "calorias": 65,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "16°"
+    },
+    {
+     "alimento": "Brazo de Reina",
+     "medida": "1 Porción",
+     "equivalencia": "50 gr.",
+     "calorias": 150,
+     "proteinas": 10,
+     "lipidos": 7,
+     "hc": 13
+    },
+    {
+     "alimento": "Brloches",
+     "medida": "2 Unidades",
+     "equivalencia": "100 gr.",
+     "calorias": 272,
+     "proteinas": 8.5,
+     "lipidos": 2,
+     "hc": 55
+    },
+    {
+     "alimento": "Bruselas",
+     "medida": "8 Unidades",
+     "equivalencia": "100 gr.",
+     "calorias": 36,
+     "proteinas": 3,
+     "lipidos": null,
+     "hc": 6
+    },
+    {
+     "alimento": "Budín de Verduras",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 208,
+     "proteinas": 7,
+     "lipidos": 13.8,
+     "hc": 23.9
+    },
+    {
+     "alimento": "Caldillo de Pescado",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 310,
+     "proteinas": 34.9,
+     "lipidos": 12.2,
+     "hc": 28.8
+    },
+    {
+     "alimento": "Caldo de ave",
+     "medida": "1 Cubo",
+     "equivalencia": null,
+     "calorias": 32,
+     "proteinas": 1.2,
+     "lipidos": 2.3,
+     "hc": 2.8
+    },
+    {
+     "alimento": "Caldo de carne",
+     "medida": "1 Cubo",
+     "equivalencia": null,
+     "calorias": 28,
+     "proteinas": 1.1,
+     "lipidos": 1.9,
+     "hc": 1.6
+    },
+    {
+     "alimento": "Caldo puro",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 20,
+     "proteinas": null,
+     "lipidos": 2,
+     "hc": null
+    },
+    {
+     "alimento": "Calugas",
+     "medida": "10 Unidades",
+     "equivalencia": "130 gr.",
+     "calorias": 130,
+     "proteinas": 1,
+     "lipidos": 4,
+     "hc": 22
+    },
+    {
+     "alimento": "Callampas Frescas",
+     "medida": "1\/3 Taza",
+     "equivalencia": "100 gr.",
+     "calorias": 24,
+     "proteinas": 3,
+     "lipidos": null,
+     "hc": 3
+    },
+    {
+     "alimento": "Camarones (cocidos)",
+     "medida": "20 Colitas",
+     "equivalencia": "100 gr.",
+     "calorias": 100,
+     "proteinas": 20,
+     "lipidos": 2,
+     "hc": 1
+    },
+    {
+     "alimento": "Camote",
+     "medida": "1\/2 Taza",
+     "equivalencia": "100 gr.",
+     "calorias": 130,
+     "proteinas": 1.6,
+     "lipidos": 0.4,
+     "hc": 30.2
+    },
+    {
+     "alimento": "Canapés 1\/m",
+     "medida": "1 Unidad",
+     "equivalencia": null,
+     "calorias": 60,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": null
+    },
+    {
+     "alimento": "Caqui",
+     "medida": "1 Chico",
+     "equivalencia": "100 gr.",
+     "calorias": 64,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 16
+    },
+    {
+     "alimento": "Caramelos",
+     "medida": "1 Unidad",
+     "equivalencia": "6 gr.",
+     "calorias": 23,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 5.7
+    },
+    {
+     "alimento": "Carbonada con carne",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 377,
+     "proteinas": 14.2,
+     "lipidos": 16,
+     "hc": 65.9
+    },
+    {
+     "alimento": "Carbonada de verdura",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 240,
+     "proteinas": 7.4,
+     "lipidos": 5.2,
+     "hc": 42.5
+    },
+    {
+     "alimento": "Carlota rusa",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 235,
+     "proteinas": 6,
+     "lipidos": 14,
+     "hc": 33
+    },
+    {
+     "alimento": "Carne al jugo",
+     "medida": "1 Presa",
+     "equivalencia": "150 gr.",
+     "calorias": 250,
+     "proteinas": 32.1,
+     "lipidos": 10,
+     "hc": 8
+    },
+    {
+     "alimento": "Carne asada",
+     "medida": "1 Porción",
+     "equivalencia": "200 gr",
+     "calorias": 289,
+     "proteinas": 42.8,
+     "lipidos": 11,
+     "hc": 4.8
+    },
+    {
+     "alimento": "Carne Cazuela",
+     "medida": "1 Porción",
+     "equivalencia": "130 gr.",
+     "calorias": 191,
+     "proteinas": 29,
+     "lipidos": 7.5,
+     "hc": 1
+    },
+    {
+     "alimento": "Carne molida",
+     "medida": "1 Porción",
+     "equivalencia": "50 gr",
+     "calorias": 65,
+     "proteinas": 11,
+     "lipidos": 2,
+     "hc": 0.7
+    },
+    {
+     "alimento": "Castañas",
+     "medida": "1 Unidad",
+     "equivalencia": "5 gr.",
+     "calorias": 11,
+     "proteinas": 0.3,
+     "lipidos": 0.1,
+     "hc": 2
+    },
+    {
+     "alimento": "Castañas Cocidas",
+     "medida": "1 Porción",
+     "equivalencia": "113 gr.",
+     "calorias": 220,
+     "proteinas": 3,
+     "lipidos": 2,
+     "hc": 47
+    },
+    {
+     "alimento": "Caviar",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 125,
+     "proteinas": 14,
+     "lipidos": 7,
+     "hc": 1.5
+    },
+    {
+     "alimento": "Caviar",
+     "medida": "1 Cuchda",
+     "equivalencia": "50 gr.",
+     "calorias": 38,
+     "proteinas": 4.2,
+     "lipidos": 2.1,
+     "hc": 0.5
+    },
+    {
+     "alimento": "Cazuela Albóndiga",
+     "medida": "1 Plato",
+     "equivalencia": "15 gr.",
+     "calorias": 310,
+     "proteinas": 14.5,
+     "lipidos": 8.3,
+     "hc": 46.5
+    },
+    {
+     "alimento": "Cazuela Ave",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 340,
+     "proteinas": 19.5,
+     "lipidos": 13.5,
+     "hc": 42.5
+    },
+    {
+     "alimento": "Cazuela Cerdo",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 450,
+     "proteinas": 26.1,
+     "lipidos": 14,
+     "hc": 55.6
+    },
+    {
+     "alimento": "Cazuela Cordero",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 425,
+     "proteinas": 32,
+     "lipidos": 11.4,
+     "hc": 52.6
+    },
+    {
+     "alimento": "Cazuela Vacuno",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 417,
+     "proteinas": 36.6,
+     "lipidos": 9,
+     "hc": 55.6
+    },
+    {
+     "alimento": "Cebolla",
+     "medida": "1\/2 Taza",
+     "equivalencia": "100 gr.",
+     "calorias": 25,
+     "proteinas": 0.8,
+     "lipidos": 0.2,
+     "hc": 9.6
+    },
+    {
+     "alimento": "Cebolla Ensalada",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 211,
+     "proteinas": 10.7,
+     "lipidos": 0.9,
+     "hc": 30.8
+    },
+    {
+     "alimento": "Cebollines",
+     "medida": "1 Unidad",
+     "equivalencia": "40 gr.",
+     "calorias": 17,
+     "proteinas": 1,
+     "lipidos": null,
+     "hc": 3.2
+    },
+    {
+     "alimento": "Centolla Cocida",
+     "medida": "1\/4 Taza",
+     "equivalencia": "100 gr.",
+     "calorias": 120,
+     "proteinas": 2,
+     "lipidos": 2,
+     "hc": 1
+    },
+    {
+     "alimento": "Cerezas (jugo)",
+     "medida": "1\/2 Taza",
+     "equivalencia": "100 gr.",
+     "calorias": 64,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 16.1
+    },
+    {
+     "alimento": "Cerezas o Guindas",
+     "medida": "1 Chica",
+     "equivalencia": "5 gr.",
+     "calorias": 3,
+     "proteinas": 0.1,
+     "lipidos": null,
+     "hc": 0.6
+    },
+    {
+     "alimento": "Cerezas o Guindas",
+     "medida": "1 Taza",
+     "equivalencia": "120 gr",
+     "calorias": 52,
+     "proteinas": 1.5,
+     "lipidos": 0.4,
+     "hc": 11.5
+    },
+    {
+     "alimento": "Cerveza",
+     "medida": "1 Vaso",
+     "equivalencia": "200 gr.",
+     "calorias": 96,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "8°"
+    },
+    {
+     "alimento": "Ciruelas (jugo)",
+     "medida": "1\/2 Taza",
+     "equivalencia": "100 gr",
+     "calorias": 84,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 20.1
+    },
+    {
+     "alimento": "Ciruelas (deshidratadas)",
+     "medida": "1 Unidad",
+     "equivalencia": "15 gr.",
+     "calorias": 49,
+     "proteinas": 0.4,
+     "lipidos": null,
+     "hc": 10.7
+    },
+    {
+     "alimento": "Ciruelas Frescas",
+     "medida": "1 Unidad Reg",
+     "equivalencia": "40 gr",
+     "calorias": 30,
+     "proteinas": 0.1,
+     "lipidos": null,
+     "hc": 8
+    },
+    {
+     "alimento": "Clara de Huevo",
+     "medida": "1 Unidad",
+     "equivalencia": "30 gr",
+     "calorias": 14,
+     "proteinas": 3.2,
+     "lipidos": null,
+     "hc": 0.3
+    },
+    {
+     "alimento": "Coca Cola",
+     "medida": "1 Vaso ch",
+     "equivalencia": "100 cc",
+     "calorias": 41,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 10.2
+    },
+    {
+     "alimento": "Coco",
+     "medida": "1 Unidad",
+     "equivalencia": "2 gr",
+     "calorias": 12,
+     "proteinas": null,
+     "lipidos": 1.2,
+     "hc": 0.2
+    },
+    {
+     "alimento": "Cocoa",
+     "medida": "1 Cuchdita",
+     "equivalencia": "3 gr.",
+     "calorias": 11,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 2.7
+    },
+    {
+     "alimento": "Coco Rallado",
+     "medida": "1\/2 Taza",
+     "equivalencia": null,
+     "calorias": 420,
+     "proteinas": 4,
+     "lipidos": 4,
+     "hc": 40
+    },
+    {
+     "alimento": "Cóctel Cuba Libre",
+     "medida": "1 Vaso",
+     "equivalencia": "150 cc",
+     "calorias": 220,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "8°"
+    },
+    {
+     "alimento": "Cochayuyo",
+     "medida": "1 Pqte Gnde",
+     "equivalencia": "50 gr.",
+     "calorias": 50,
+     "proteinas": 4,
+     "lipidos": null,
+     "hc": 8
+    },
+    {
+     "alimento": "Coñac",
+     "medida": "1 Copita",
+     "equivalencia": "50 cc",
+     "calorias": 122,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "18°"
+    },
+    {
+     "alimento": "Coñac Francés",
+     "medida": "1 Copita",
+     "equivalencia": "50 cc",
+     "calorias": 196,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "28°"
+    },
+    {
+     "alimento": "Coliflor",
+     "medida": "1\/2 Taza coc",
+     "equivalencia": "100 gr.",
+     "calorias": 24,
+     "proteinas": 1.5,
+     "lipidos": 0.5,
+     "hc": 3.9
+    },
+    {
+     "alimento": "Compota Ciruela con Mote",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 234,
+     "proteinas": 2.8,
+     "lipidos": null,
+     "hc": 58.4
+    },
+    {
+     "alimento": "Compota de Fruta",
+     "medida": "1 Porción",
+     "equivalencia": "90 gr.",
+     "calorias": 90,
+     "proteinas": 0.5,
+     "lipidos": 0.5,
+     "hc": 20
+    },
+    {
+     "alimento": "Compota de Huesillo c\/m",
+     "medida": "1 Porción",
+     "equivalencia": "221 gr.",
+     "calorias": 221,
+     "proteinas": 2.3,
+     "lipidos": null,
+     "hc": 55
+    },
+    {
+     "alimento": "Conejo Asado",
+     "medida": "1 Porción",
+     "equivalencia": "120 gr.",
+     "calorias": 170,
+     "proteinas": 19,
+     "lipidos": 2,
+     "hc": null
+    },
+    {
+     "alimento": "Congrio al Vapor",
+     "medida": "1 Porción",
+     "equivalencia": "150 gr.",
+     "calorias": 102,
+     "proteinas": 23.3,
+     "lipidos": 0.3,
+     "hc": 4.8
+    },
+    {
+     "alimento": "Congrio Frito",
+     "medida": "1 Porción",
+     "equivalencia": "200 gr.",
+     "calorias": 280,
+     "proteinas": 32,
+     "lipidos": 31.9,
+     "hc": 10.6
+    },
+    {
+     "alimento": "Corvina al Vapor",
+     "medida": "1 Porción",
+     "equivalencia": "150 gr.",
+     "calorias": 138,
+     "proteinas": 30.8,
+     "lipidos": 0.8,
+     "hc": 4.1
+    },
+    {
+     "alimento": "Costillas Asadas",
+     "medida": "1 Porción",
+     "equivalencia": "150 gr.",
+     "calorias": 200,
+     "proteinas": 23,
+     "lipidos": 12,
+     "hc": null
+    },
+    {
+     "alimento": "Crema batida",
+     "medida": "1 Cuchda",
+     "equivalencia": "20 gr.",
+     "calorias": 66,
+     "proteinas": 0.4,
+     "lipidos": 7,
+     "hc": 1
+    },
+    {
+     "alimento": "Crema de Cacao",
+     "medida": "1 Copita",
+     "equivalencia": "30 cc",
+     "calorias": 90,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 8
+    },
+    {
+     "alimento": "Crema de Menta",
+     "medida": "1 Copita",
+     "equivalencia": "30 cc",
+     "calorias": 90,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 8
+    },
+    {
+     "alimento": "Crema deshidratada",
+     "medida": "1 Plato",
+     "equivalencia": "66 gr.",
+     "calorias": 20,
+     "proteinas": 1.6,
+     "lipidos": 10.8,
+     "hc": null
+    },
+    {
+     "alimento": "Crema Nestlé",
+     "medida": "1 Cuchda",
+     "equivalencia": "20 gr.",
+     "calorias": 50,
+     "proteinas": 0.5,
+     "lipidos": 5,
+     "hc": 0.7
+    },
+    {
+     "alimento": "Criadillas",
+     "medida": "1 Porción",
+     "equivalencia": "100 gr.",
+     "calorias": 67,
+     "proteinas": 13.1,
+     "lipidos": 1.2,
+     "hc": 0.6
+    },
+    {
+     "alimento": "Cuaquer con leche",
+     "medida": "1 Compota",
+     "equivalencia": null,
+     "calorias": 235,
+     "proteinas": 8.5,
+     "lipidos": 6.2,
+     "hc": 43.7
+    },
+    {
+     "alimento": "Champaña",
+     "medida": "1 Copa",
+     "equivalencia": "100 cc",
+     "calorias": 70,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "3(10°)"
+    },
+    {
+     "alimento": "Champaña",
+     "medida": "2 Copas",
+     "equivalencia": "100 cc",
+     "calorias": 144,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "11(10°)"
+    },
+    {
+     "alimento": "Champiñones",
+     "medida": "1\/2 Taza",
+     "equivalencia": null,
+     "calorias": 20,
+     "proteinas": 2,
+     "lipidos": null,
+     "hc": 3
+    },
+    {
+     "alimento": "Champiñones al natural",
+     "medida": "1 Tarro Chico",
+     "equivalencia": "200 gr.",
+     "calorias": 74,
+     "proteinas": 10.8,
+     "lipidos": 0.6,
+     "hc": 7.2
+    },
+    {
+     "alimento": "Charqui",
+     "medida": "1 Porción",
+     "equivalencia": "100 gr.",
+     "calorias": 571,
+     "proteinas": 46,
+     "lipidos": 43,
+     "hc": null
+    },
+    {
+     "alimento": "Charquicán",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 383,
+     "proteinas": 2.6,
+     "lipidos": 6.7,
+     "hc": 55
+    },
+    {
+     "alimento": "Chicle",
+     "medida": "1 Unidad",
+     "equivalencia": null,
+     "calorias": 8,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 2
+    },
+    {
+     "alimento": "Chirimoya",
+     "medida": "1 Taza",
+     "equivalencia": "130 gr.",
+     "calorias": 73,
+     "proteinas": 3.8,
+     "lipidos": 0.7,
+     "hc": 15.2
+    },
+    {
+     "alimento": "Choclo entero",
+     "medida": "1 Unidad Me",
+     "equivalencia": "360 gr.",
+     "calorias": 96,
+     "proteinas": 3,
+     "lipidos": 1.1,
+     "hc": 19
+    },
+    {
+     "alimento": "Choclo picado",
+     "medida": "1\/2 Taza",
+     "equivalencia": "60 gr.",
+     "calorias": 58,
+     "proteinas": 1,
+     "lipidos": 1,
+     "hc": "10,2"
+    },
+    {
+     "alimento": "Chocolate",
+     "medida": "1 Barra",
+     "equivalencia": "17 gr.",
+     "calorias": 76,
+     "proteinas": 0.9,
+     "lipidos": 3.9,
+     "hc": 9.4
+    },
+    {
+     "alimento": "Chocolate dulce",
+     "medida": "1 Porción",
+     "equivalencia": "100 gr.",
+     "calorias": 449,
+     "proteinas": 5.5,
+     "lipidos": 23,
+     "hc": 5
+    },
+    {
+     "alimento": "Chocolate leche",
+     "medida": "1 Porción",
+     "equivalencia": "100 gr.",
+     "calorias": 527,
+     "proteinas": 8.4,
+     "lipidos": 50.1,
+     "hc": 32.6
+    },
+    {
+     "alimento": "Chocolate salsa",
+     "medida": "1 Barra",
+     "equivalencia": "17 gr.",
+     "calorias": 76,
+     "proteinas": 0.9,
+     "lipidos": 3.9,
+     "hc": 9.4
+    },
+    {
+     "alimento": "Cholgas",
+     "medida": "9 Unidades",
+     "equivalencia": "100 gr.",
+     "calorias": 68,
+     "proteinas": 14.2,
+     "lipidos": 0.8,
+     "hc": 2.5
+    },
+    {
+     "alimento": "Cholgas en conservas",
+     "medida": "9 Unidades",
+     "equivalencia": "100 gr.",
+     "calorias": 131,
+     "proteinas": 21.3,
+     "lipidos": 4.4,
+     "hc": 1.8
+    },
+    {
+     "alimento": "Choricillos",
+     "medida": "1 Unidad",
+     "equivalencia": "15 gr.",
+     "calorias": 45,
+     "proteinas": 1.3,
+     "lipidos": 4.1,
+     "hc": 0.7
+    },
+    {
+     "alimento": "Choritos",
+     "medida": "18 Unidades",
+     "equivalencia": "100 gr.",
+     "calorias": 65,
+     "proteinas": 4,
+     "lipidos": null,
+     "hc": 1
+    },
+    {
+     "alimento": "Choritos en conservas",
+     "medida": "18 Unidades",
+     "equivalencia": "100 gr.",
+     "calorias": 96,
+     "proteinas": 16,
+     "lipidos": 3.1,
+     "hc": 1.9
+    },
+    {
+     "alimento": "Chuletas de cerdo",
+     "medida": "1 Unid c\/hue",
+     "equivalencia": "200 gr.",
+     "calorias": 376,
+     "proteinas": 26.8,
+     "lipidos": 29,
+     "hc": 1.6
+    },
+    {
+     "alimento": "Chuletas de cordero",
+     "medida": "1 Unidad",
+     "equivalencia": "200 gr.",
+     "calorias": 241,
+     "proteinas": "24,4",
+     "lipidos": 15,
+     "hc": 6
+    },
+    {
+     "alimento": "Chuletas de ternera",
+     "medida": "1 Unid c\/hue",
+     "equivalencia": "200 gr.",
+     "calorias": 260,
+     "proteinas": 30,
+     "lipidos": 15,
+     "hc": null
+    },
+    {
+     "alimento": "Churros",
+     "medida": "2 Unidades",
+     "equivalencia": "40 gr.",
+     "calorias": 180,
+     "proteinas": 3,
+     "lipidos": 10,
+     "hc": 19
+    },
+    {
+     "alimento": "Damasco",
+     "medida": "2 Unid Reg",
+     "equivalencia": "100 gr",
+     "calorias": 41,
+     "proteinas": 0.6,
+     "lipidos": 0.4,
+     "hc": 9
+    },
+    {
+     "alimento": "Damasco",
+     "medida": "1\/2 Taza",
+     "equivalencia": "100 cc",
+     "calorias": 65,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 17
+    },
+    {
+     "alimento": "Dulces Chileno",
+     "medida": "1 Unidad",
+     "equivalencia": "50 gr.",
+     "calorias": 204,
+     "proteinas": 2.2,
+     "lipidos": 14,
+     "hc": 20
+    },
+    {
+     "alimento": "Dulces de membrillo",
+     "medida": "1 Porción",
+     "equivalencia": "50 gr.",
+     "calorias": 100,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 25
+    },
+    {
+     "alimento": "Durazno",
+     "medida": "1 Unid Chica",
+     "equivalencia": "130 gr.",
+     "calorias": 48,
+     "proteinas": 0.8,
+     "lipidos": 0.3,
+     "hc": 11.6
+    },
+    {
+     "alimento": "Durazno en conserva",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 80,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 20
+    },
+    {
+     "alimento": "Durazno al jugo",
+     "medida": "1 Mitad Gnde",
+     "equivalencia": "85 gr.",
+     "calorias": 58,
+     "proteinas": 0.3,
+     "lipidos": 0.1,
+     "hc": 15.5
+    },
+    {
+     "alimento": "Durazno al jugo",
+     "medida": "1 Mitad c\/jug",
+     "equivalencia": "100 gr.",
+     "calorias": 80,
+     "proteinas": 0.3,
+     "lipidos": 0.1,
+     "hc": 19
+    },
+    {
+     "alimento": "Durazno al jugo",
+     "medida": "1 Tarro",
+     "equivalencia": "560 gr.",
+     "calorias": 381,
+     "proteinas": 2.2,
+     "lipidos": 0.6,
+     "hc": 101
+    },
+    {
+     "alimento": "Empanada frita Pino",
+     "medida": "1 Unid Med",
+     "equivalencia": "100 gr.",
+     "calorias": 347,
+     "proteinas": 11,
+     "lipidos": 19,
+     "hc": 33
+    },
+    {
+     "alimento": "Empanada frita Queso",
+     "medida": "1 Unid Med",
+     "equivalencia": "100 gr",
+     "calorias": 315,
+     "proteinas": 13,
+     "lipidos": 15,
+     "hc": 32
+    },
+    {
+     "alimento": "Empanada Horno",
+     "medida": "1 Unid Med",
+     "equivalencia": "200 gr",
+     "calorias": 400,
+     "proteinas": 13.7,
+     "lipidos": 16,
+     "hc": 50
+    },
+    {
+     "alimento": "Ensaladas porotos c\/cebolla",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 211,
+     "proteinas": 10.7,
+     "lipidos": 0.9,
+     "hc": 30.8
+    },
+    {
+     "alimento": "Ensalada rusa",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 305,
+     "proteinas": 7.8,
+     "lipidos": 16.4,
+     "hc": 33.2
+    },
+    {
+     "alimento": "Erizos",
+     "medida": "5 Lenguas",
+     "equivalencia": "100 gr.",
+     "calorias": 106,
+     "proteinas": 14.6,
+     "lipidos": 4.8,
+     "hc": 4.5
+    },
+    {
+     "alimento": "Escalopa de vacuno",
+     "medida": "1 Unidad",
+     "equivalencia": "100 gr.",
+     "calorias": 300,
+     "proteinas": 23.9,
+     "lipidos": 14.5,
+     "hc": 17.8
+    },
+    {
+     "alimento": "Escarola",
+     "medida": "4 Hojas Gnde",
+     "equivalencia": "100 gr.",
+     "calorias": 16,
+     "proteinas": 1,
+     "lipidos": null,
+     "hc": 3
+    },
+    {
+     "alimento": "Espárragos",
+     "medida": "4 Puntas Reg",
+     "equivalencia": "100 gr.",
+     "calorias": 15,
+     "proteinas": 1.8,
+     "lipidos": 0.2,
+     "hc": 1.6
+    },
+    {
+     "alimento": "Espárragos trozos",
+     "medida": "1 Tarro Chico",
+     "equivalencia": "350 gr.",
+     "calorias": 53,
+     "proteinas": 6.3,
+     "lipidos": 0.7,
+     "hc": 5.6
+    },
+    {
+     "alimento": "Espárragos puntas",
+     "medida": "1 Tarro Chico",
+     "equivalencia": "360 gr.",
+     "calorias": 54,
+     "proteinas": 6.5,
+     "lipidos": 0.7,
+     "hc": 5.8
+    },
+    {
+     "alimento": "Espárragos limoneta",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 175,
+     "proteinas": 4,
+     "lipidos": 16,
+     "hc": 4
+    },
+    {
+     "alimento": "Espinacas cocidas",
+     "medida": "1\/2 Taza",
+     "equivalencia": "100 gr.",
+     "calorias": 21,
+     "proteinas": 2.1,
+     "lipidos": 0.5,
+     "hc": 2.5
+    },
+    {
+     "alimento": "Espinacas crudas",
+     "medida": "1 Mata Chica",
+     "equivalencia": "40 gr.",
+     "calorias": 14,
+     "proteinas": 0.8,
+     "lipidos": 0.3,
+     "hc": 2.2
+    },
+    {
+     "alimento": "Estofado de cordero",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 235,
+     "proteinas": 15,
+     "lipidos": 13,
+     "hc": 15
+    },
+    {
+     "alimento": "Estofado de ave",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 265,
+     "proteinas": 20,
+     "lipidos": 16,
+     "hc": 15
+    },
+    {
+     "alimento": "Fanta",
+     "medida": "1 Vaso ch",
+     "equivalencia": "100cc",
+     "calorias": 60,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 14.9
+    },
+    {
+     "alimento": "Fiambres en general",
+     "medida": "1 Tajada",
+     "equivalencia": "30 gr",
+     "calorias": 78,
+     "proteinas": 4.6,
+     "lipidos": 5.8,
+     "hc": 1.2
+    },
+    {
+     "alimento": "Fideos crudos",
+     "medida": "1 Cuchda",
+     "equivalencia": "20 gr.",
+     "calorias": 72,
+     "proteinas": 2.4,
+     "lipidos": 0.1,
+     "hc": 14.9
+    },
+    {
+     "alimento": "Filete asado",
+     "medida": "1 Medallon",
+     "equivalencia": "250 gr.",
+     "calorias": 360,
+     "proteinas": 53,
+     "lipidos": 14.8,
+     "hc": 2.8
+    },
+    {
+     "alimento": "Filete Miñón",
+     "medida": "1 Porción",
+     "equivalencia": "170 gr.",
+     "calorias": 250,
+     "proteinas": 36,
+     "lipidos": 9,
+     "hc": null
+    },
+    {
+     "alimento": "Flan de leche",
+     "medida": "1 Compota",
+     "equivalencia": null,
+     "calorias": 245,
+     "proteinas": 7.9,
+     "lipidos": 5.8,
+     "hc": 40.3
+    },
+    {
+     "alimento": "Flan de verdura",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 150,
+     "proteinas": 8.6,
+     "lipidos": null,
+     "hc": null
+    },
+    {
+     "alimento": "Frambuesa",
+     "medida": "1 Taza",
+     "equivalencia": "150 gr.",
+     "calorias": 72,
+     "proteinas": 1.6,
+     "lipidos": 1,
+     "hc": 16
+    },
+    {
+     "alimento": "Fricasé",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 453,
+     "proteinas": 45.3,
+     "lipidos": 23.4,
+     "hc": 5.3
+    },
+    {
+     "alimento": "Fritos de verdura",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 289,
+     "proteinas": 8,
+     "lipidos": null,
+     "hc": null
+    },
+    {
+     "alimento": "Fruta confitada",
+     "medida": "1 Trozo Chico",
+     "equivalencia": null,
+     "calorias": 35,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 8
+    },
+    {
+     "alimento": "Frutilla",
+     "medida": "12 Unidades",
+     "equivalencia": "150 gr.",
+     "calorias": 54,
+     "proteinas": 1.2,
+     "lipidos": 0.5,
+     "hc": 12
+    },
+    {
+     "alimento": "Frutillas con azúcar",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 120,
+     "proteinas": 0.7,
+     "lipidos": 0.6,
+     "hc": 28.1
+    },
+    {
+     "alimento": "Frutillas con crema",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 150,
+     "proteinas": 1.2,
+     "lipidos": 5.8,
+     "hc": 28.8
+    },
+    {
+     "alimento": "Galletas cream cracker",
+     "medida": "1 Unidad",
+     "equivalencia": "4 gr.",
+     "calorias": 17,
+     "proteinas": 0.4,
+     "lipidos": 0.5,
+     "hc": " 2.7"
+    },
+    {
+     "alimento": "Galletas de agua",
+     "medida": "1 Unidad Med",
+     "equivalencia": "8 gr.",
+     "calorias": 34,
+     "proteinas": 0.9,
+     "lipidos": 0.9,
+     "hc": 5.4
+    },
+    {
+     "alimento": "Galletas de limón",
+     "medida": "1 Unidad",
+     "equivalencia": "7 gr.",
+     "calorias": 31,
+     "proteinas": 0.5,
+     "lipidos": 0.9,
+     "hc": 5.2
+    },
+    {
+     "alimento": "Galletas de monito",
+     "medida": "1 Unidad",
+     "equivalencia": "3 gr.",
+     "calorias": 16,
+     "proteinas": 0.5,
+     "lipidos": 0.5,
+     "hc": 2
+    },
+    {
+     "alimento": "Galletas de oblea",
+     "medida": "1 Unidad",
+     "equivalencia": "7 gr.",
+     "calorias": 41,
+     "proteinas": 0.3,
+     "lipidos": 1.7,
+     "hc": 6
+    },
+    {
+     "alimento": "Galletas de soda",
+     "medida": "1 Unidad",
+     "equivalencia": "10 gr.",
+     "calorias": 44,
+     "proteinas": 1.1,
+     "lipidos": 1.4,
+     "hc": 6
+    },
+    {
+     "alimento": "Galletas de triton",
+     "medida": "1 Unidad",
+     "equivalencia": "10 gr.",
+     "calorias": 47,
+     "proteinas": 0.7,
+     "lipidos": 1.8,
+     "hc": 6.8
+    },
+    {
+     "alimento": "Galletas de vino",
+     "medida": "1 Unidad",
+     "equivalencia": "9 gr.",
+     "calorias": 38,
+     "proteinas": 0.8,
+     "lipidos": 0.9,
+     "hc": 6.6
+    },
+    {
+     "alimento": "Garbanzos cocidos",
+     "medida": "1 Taza",
+     "equivalencia": "70 gr.",
+     "calorias": 234,
+     "proteinas": 12.7,
+     "lipidos": 4.3,
+     "hc": 38.4
+    },
+    {
+     "alimento": "Garbanzos con tocino",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 473,
+     "proteinas": 18.5,
+     "lipidos": 22,
+     "hc": 50.7
+    },
+    {
+     "alimento": "Ginebra o Gin",
+     "medida": "1 Copita",
+     "equivalencia": "30 cc",
+     "calorias": 65,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "0°"
+    },
+    {
+     "alimento": "Ginger Ale",
+     "medida": "1 Vaso ch",
+     "equivalencia": "100 cc",
+     "calorias": 39,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 9.8
+    },
+    {
+     "alimento": "Gomitas dulces",
+     "medida": "5 Unidades",
+     "equivalencia": "28 gr.",
+     "calorias": 100,
+     "proteinas": 1,
+     "lipidos": 1,
+     "hc": 23
+    },
+    {
+     "alimento": "Goulach",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 260,
+     "proteinas": 24,
+     "lipidos": 14,
+     "hc": 31
+    },
+    {
+     "alimento": "Granada",
+     "medida": "1 Unidad Reg",
+     "equivalencia": "200 gr.",
+     "calorias": 36,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 9
+    },
+    {
+     "alimento": "Guayaba",
+     "medida": "1 Unidad",
+     "equivalencia": "150 gr.",
+     "calorias": 50,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 11
+    },
+    {
+     "alimento": "Guindas",
+     "medida": "1 Porción",
+     "equivalencia": "70 gr.",
+     "calorias": 24,
+     "proteinas": 0.7,
+     "lipidos": 1.2,
+     "hc": 3.4
+    },
+    {
+     "alimento": "Guindas al jugo",
+     "medida": "1 Tarro",
+     "equivalencia": "560 gr.",
+     "calorias": 1316,
+     "proteinas": 3.4,
+     "lipidos": 0.6,
+     "hc": 116.5
+    },
+    {
+     "alimento": "Guatitas",
+     "medida": "1 Porción",
+     "equivalencia": "120 gr.",
+     "calorias": 140,
+     "proteinas": 23.9,
+     "lipidos": 2.9,
+     "hc": null
+    },
+    {
+     "alimento": "Hígado bistec",
+     "medida": "1 Porción",
+     "equivalencia": "150 gr.",
+     "calorias": 260,
+     "proteinas": 30,
+     "lipidos": 12,
+     "hc": 7
+    },
+    {
+     "alimento": "Habas",
+     "medida": "1 Taza coc",
+     "equivalencia": "150 gr.",
+     "calorias": 125,
+     "proteinas": 10.4,
+     "lipidos": 0.8,
+     "hc": 21.5
+    },
+    {
+     "alimento": "Habas",
+     "medida": "1 Unidad",
+     "equivalencia": "4 gr.",
+     "calorias": 4,
+     "proteinas": 0.3,
+     "lipidos": 0,
+     "hc": 0.5
+    },
+    {
+     "alimento": "Hamburguesas",
+     "medida": "1 Unidad",
+     "equivalencia": "150 gr.",
+     "calorias": 224,
+     "proteinas": 21.8,
+     "lipidos": 14.8,
+     "hc": 5
+    },
+    {
+     "alimento": "Harina de leguminosas",
+     "medida": "1 Porc Sopa",
+     "equivalencia": "17 gr.",
+     "calorias": 59,
+     "proteinas": 4.1,
+     "lipidos": 0.2,
+     "hc": 10.5
+    },
+    {
+     "alimento": "Harina de leguminosas",
+     "medida": "1 Porc Puré",
+     "equivalencia": "25 gr.",
+     "calorias": 87,
+     "proteinas": 5,
+     "lipidos": 0.3,
+     "hc": 15.5
+    },
+    {
+     "alimento": "Harina Tostada c\/leche",
+     "medida": "1 Compota",
+     "equivalencia": null,
+     "calorias": 293,
+     "proteinas": 9.8,
+     "lipidos": 6.3,
+     "hc": 49.3
+    },
+    {
+     "alimento": "Helado de agua",
+     "medida": "1 Unidad",
+     "equivalencia": "100 gr.",
+     "calorias": 147,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 36.7
+    },
+    {
+     "alimento": "Helado de leche",
+     "medida": "1 Unidad",
+     "equivalencia": "100 gr.",
+     "calorias": 217,
+     "proteinas": 4,
+     "lipidos": 20.6,
+     "hc": 12.5
+    },
+    {
+     "alimento": "Hígado de ave",
+     "medida": "1 Porción",
+     "equivalencia": "120 gr.",
+     "calorias": 135,
+     "proteinas": 20,
+     "lipidos": 4,
+     "hc": 5
+    },
+    {
+     "alimento": "Hígado de Cerdo",
+     "medida": "1 Porción",
+     "equivalencia": "120 gr.",
+     "calorias": 160,
+     "proteinas": 23,
+     "lipidos": 9,
+     "hc": 4
+    },
+    {
+     "alimento": "Hígado de Cordero",
+     "medida": "1 Porción",
+     "equivalencia": "120 gr.",
+     "calorias": 140,
+     "proteinas": 23,
+     "lipidos": 4,
+     "hc": 3
+    },
+    {
+     "alimento": "Hígado de Vacuno",
+     "medida": "1 Porción",
+     "equivalencia": "120 gr.",
+     "calorias": 175,
+     "proteinas": 21.2,
+     "lipidos": 9.5,
+     "hc": 10.3
+    },
+    {
+     "alimento": "Higos",
+     "medida": "1 Unidad",
+     "equivalencia": "20 gr.",
+     "calorias": 49,
+     "proteinas": 0.8,
+     "lipidos": 0.2,
+     "hc": 12.4
+    },
+    {
+     "alimento": "Higos frescos y brevas",
+     "medida": "2 Unid Gnde",
+     "equivalencia": "50 gr.",
+     "calorias": 42,
+     "proteinas": 0.5,
+     "lipidos": null,
+     "hc": 10
+    },
+    {
+     "alimento": "Huevo a la copa o duro",
+     "medida": "1 Unidad",
+     "equivalencia": "50 gr.",
+     "calorias": 76,
+     "proteinas": 6.8,
+     "lipidos": 5,
+     "hc": 2
+    },
+    {
+     "alimento": "Huevo con fiambre",
+     "medida": "1 Unidad",
+     "equivalencia": "65 gr.",
+     "calorias": 127,
+     "proteinas": 8.3,
+     "lipidos": 10,
+     "hc": 2.4
+    },
+    {
+     "alimento": "Huevo frito o revuelto",
+     "medida": "1 Unidad",
+     "equivalencia": "53 gr.",
+     "calorias": 108,
+     "proteinas": 7,
+     "lipidos": 8,
+     "hc": 2
+    },
+    {
+     "alimento": "Huevo con queso",
+     "medida": "1 Unidad",
+     "equivalencia": "60 gr.",
+     "calorias": 136,
+     "proteinas": 8.5,
+     "lipidos": 8.5,
+     "hc": 4.8
+    },
+    {
+     "alimento": "Huevo con tocino",
+     "medida": "1 Unidad",
+     "equivalencia": "55 gr.",
+     "calorias": 150,
+     "proteinas": 6.8,
+     "lipidos": 10,
+     "hc": 2
+    },
+    {
+     "alimento": "Huevo de Codorniz",
+     "medida": "1 Unidad",
+     "equivalencia": "25 gr.",
+     "calorias": 40,
+     "proteinas": 3.1,
+     "lipidos": 2,
+     "hc": null
+    },
+    {
+     "alimento": "Huesillos",
+     "medida": "1 Unidad",
+     "equivalencia": "20 gr.",
+     "calorias": 40,
+     "proteinas": 0.4,
+     "lipidos": null,
+     "hc": 9.6
+    },
+    {
+     "alimento": "Humitas",
+     "medida": "1 Chica",
+     "equivalencia": null,
+     "calorias": 165,
+     "proteinas": 4.4,
+     "lipidos": null,
+     "hc": 36
+    },
+    {
+     "alimento": "Jaivas",
+     "medida": "1\/4 Taza",
+     "equivalencia": "100 gr.",
+     "calorias": 93,
+     "proteinas": 20.3,
+     "lipidos": 0.7,
+     "hc": 2.7
+    },
+    {
+     "alimento": "Jalea con fruta",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 140,
+     "proteinas": 2.5,
+     "lipidos": 0.2,
+     "hc": 33.1
+    },
+    {
+     "alimento": "Jalea con leche",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 174,
+     "proteinas": 6.3,
+     "lipidos": 5.6,
+     "hc": 24.7
+    },
+    {
+     "alimento": "Jalea sola",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 85,
+     "proteinas": 0.6,
+     "lipidos": 0.2,
+     "hc": 20.2
+    },
+    {
+     "alimento": "Jamón",
+     "medida": "1 Tajada Reg",
+     "equivalencia": "36 gr.",
+     "calorias": 91,
+     "proteinas": 4.6,
+     "lipidos": 7.8,
+     "hc": null
+    },
+    {
+     "alimento": "Jamón con palta y lechuga",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 260,
+     "proteinas": 12.2,
+     "lipidos": 20,
+     "hc": 5.4
+    },
+    {
+     "alimento": "Jamón de pollo",
+     "medida": "4 Tajadas",
+     "equivalencia": "100 gr.",
+     "calorias": 92,
+     "proteinas": 15.3,
+     "lipidos": 4.1,
+     "hc": null
+    },
+    {
+     "alimento": "Jamón con papas mayo",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 340,
+     "proteinas": 8,
+     "lipidos": 18,
+     "hc": 40.5
+    },
+    {
+     "alimento": "Jerez",
+     "medida": "1 Copa",
+     "equivalencia": "100 cc",
+     "calorias": 127,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 12
+    },
+    {
+     "alimento": "Jugo fruta",
+     "medida": "1\/2 Taza",
+     "equivalencia": "100 cc",
+     "calorias": 50,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 12.5
+    },
+    {
+     "alimento": "Jurel al vapor",
+     "medida": "1 Porción",
+     "equivalencia": "150 cc",
+     "calorias": 194,
+     "proteinas": 32.4,
+     "lipidos": 5.9,
+     "hc": 0.5
+    },
+    {
+     "alimento": " Kéfir",
+     "medida": " 1\/2 Taza",
+     "equivalencia": " 100 cc",
+     "calorias": " 50",
+     "proteinas": " 3.0",
+     "lipidos": " 3.0",
+     "hc": " 4.0"
+    },
+    {
+     "alimento": " Kuchen",
+     "medida": " 1 Porción",
+     "equivalencia": " 100 gr.",
+     "calorias": " 225",
+     "proteinas": " 3.0",
+     "lipidos": " 9.0",
+     "hc": " 34.0"
+    },
+    {
+     "alimento": " Langostino langosta",
+     "medida": " 20 Colitas",
+     "equivalencia": " 100gr",
+     "calorias": " 113",
+     "proteinas": " 23.2",
+     "lipidos": " 1.4",
+     "hc": null
+    },
+    {
+     "alimento": " Lasaña",
+     "medida": " 1 Plato",
+     "equivalencia": null,
+     "calorias": " 506",
+     "proteinas": " 22.0",
+     "lipidos": " 15.2",
+     "hc": " 35.8"
+    },
+    {
+     "alimento": " Leche asada",
+     "medida": " 1 Compota",
+     "equivalencia": null,
+     "calorias": " 140",
+     "proteinas": " 2.5",
+     "lipidos": " 0.2",
+     "hc": " 33.1"
+    },
+    {
+     "alimento": " Leche condensada",
+     "medida": " 1 Cuchda",
+     "equivalencia": " 20 gr.",
+     "calorias": " 61",
+     "proteinas": " 1.5",
+     "lipidos": " 0.8",
+     "hc": " 11.8"
+    },
+    {
+     "alimento": " Leche con Milo",
+     "medida": " 1 Taza",
+     "equivalencia": " 200 cc",
+     "calorias": " 196",
+     "proteinas": " 7.8",
+     "lipidos": " 6.0",
+     "hc": " 28.1"
+    },
+    {
+     "alimento": " Leche con Plátano",
+     "medida": " 1 Taza",
+     "equivalencia": " 200 cc",
+     "calorias": " 203",
+     "proteinas": " 7.8",
+     "lipidos": " 5.5",
+     "hc": " 30.6"
+    },
+    {
+     "alimento": " Leche con sabor",
+     "medida": " 1 Taza",
+     "equivalencia": " 200 cc",
+     "calorias": " 148",
+     "proteinas": " 6.0",
+     "lipidos": " 2.4",
+     "hc": " 24.0"
+    },
+    {
+     "alimento": " Leche de Cabra",
+     "medida": " 1 Taza",
+     "equivalencia": " 200 cc",
+     "calorias": " 140",
+     "proteinas": " 8.0",
+     "lipidos": " 9.0",
+     "hc": " 8.0"
+    },
+    {
+     "alimento": " Leche de Oveja",
+     "medida": " 1 Taza",
+     "equivalencia": " 200 cc",
+     "calorias": " 220",
+     "proteinas": " 11.8",
+     "lipidos": " 14.4",
+     "hc": " 11.0"
+    },
+    {
+     "alimento": "Leche descremada líquida",
+     "medida": " 1 Taza",
+     "equivalencia": " 200 cc",
+     "calorias": " 85",
+     "proteinas": " 9.0",
+     "lipidos": null,
+     "hc": " 13.0"
+    },
+    {
+     "alimento": "Leche descremada polvo",
+     "medida": " 1 Cuchda",
+     "equivalencia": " 15 gr.",
+     "calorias": " 55",
+     "proteinas": " 5.0",
+     "lipidos": " 0.4",
+     "hc": " 7.8"
+    },
+    {
+     "alimento": "Leche entera líquida",
+     "medida": " 1 Cuchda",
+     "equivalencia": " 10 cc",
+     "calorias": " 6",
+     "proteinas": " 0.4",
+     "lipidos": " 0.3",
+     "hc": " 0.5"
+    },
+    {
+     "alimento": "Leche entera líquida",
+     "medida": " 1 Taza",
+     "equivalencia": " 200 cc",
+     "calorias": " 120",
+     "proteinas": " 7.0",
+     "lipidos": " 5.0",
+     "hc": " 10.0"
+    },
+    {
+     "alimento": "Leche entera polvo",
+     "medida": " 1 Cuchda",
+     "equivalencia": " 15 gr.",
+     "calorias": " 75",
+     "proteinas": " 3.6",
+     "lipidos": " 3.9",
+     "hc": " 5.5"
+    },
+    {
+     "alimento": "Leche evaporada",
+     "medida": " 1 Cuchda",
+     "equivalencia": " 20 gr",
+     "calorias": " 28",
+     "proteinas": " 1.3",
+     "lipidos": " 1.6",
+     "hc": " 2.0"
+    },
+    {
+     "alimento": "Leche nevada",
+     "medida": " 1 Compota",
+     "equivalencia": null,
+     "calorias": " 220",
+     "proteinas": " 7.8",
+     "lipidos": " 6.6",
+     "hc": " 32.7"
+    },
+    {
+     "alimento": "Lima",
+     "medida": "1 Cuchda",
+     "equivalencia": "10cc",
+     "calorias": 4,
+     "proteinas": " 0.1",
+     "lipidos": null,
+     "hc": 1
+    },
+    {
+     "alimento": "Limón",
+     "medida": "1\/2 Taza",
+     "equivalencia": "100 cc",
+     "calorias": 50,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 10
+    },
+    {
+     "alimento": "Limón",
+     "medida": "1 Cuchda ",
+     "equivalencia": " 10 cc",
+     "calorias": "5 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "1.0 "
+    },
+    {
+     "alimento": "Limonada ",
+     "medida": "1\/2 Taza ",
+     "equivalencia": "200 cc ",
+     "calorias": "50 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "15.0 "
+    },
+    {
+     "alimento": "Lechuga ",
+     "medida": "4 Hojas ",
+     "equivalencia": "100 gr ",
+     "calorias": "17 ",
+     "proteinas": "1.7 ",
+     "lipidos": "0.4 ",
+     "hc": "2 "
+    },
+    {
+     "alimento": "Lechuga picada ",
+     "medida": "1\/2 Taza ",
+     "equivalencia": "40 gr ",
+     "calorias": "7 ",
+     "proteinas": "0.7 ",
+     "lipidos": "0.2 ",
+     "hc": "0.9 "
+    },
+    {
+     "alimento": "Lengua de cerdo ",
+     "medida": "1 Porción ",
+     "equivalencia": "120 gr ",
+     "calorias": "285 ",
+     "proteinas": "25.0 ",
+     "lipidos": "20.0 ",
+     "hc": "1.0 "
+    },
+    {
+     "alimento": "Lengua de cordero ",
+     "medida": "1 Porción ",
+     "equivalencia": "120 gr ",
+     "calorias": "220 ",
+     "proteinas": "16.0 ",
+     "lipidos": "17.0 ",
+     "hc": null
+    },
+    {
+     "alimento": "Lengua de vacuno ",
+     "medida": "1 Porción ",
+     "equivalencia": "120 gr ",
+     "calorias": "187 ",
+     "proteinas": "22.6 ",
+     "lipidos": "10.2 ",
+     "hc": "9.7 "
+    },
+    {
+     "alimento": "Lentejas cocidas ",
+     "medida": "1 Taza ",
+     "equivalencia": "70 gr ",
+     "calorias": "270 ",
+     "proteinas": "17.0 ",
+     "lipidos": "0.9 ",
+     "hc": "40.2 "
+    },
+    {
+     "alimento": "Lentejas con arroz ",
+     "medida": "1 Plato ",
+     "equivalencia": null,
+     "calorias": "440 ",
+     "proteinas": "20.0 ",
+     "lipidos": "11.0 ",
+     "hc": 55
+    },
+    {
+     "alimento": "Locos cocidos  ",
+     "medida": "1 Unidad ",
+     "equivalencia": "50 gr ",
+     "calorias": "76 ",
+     "proteinas": "17.4 ",
+     "lipidos": "0.4 ",
+     "hc": "4.4 "
+    },
+    {
+     "alimento": "Locos mayo ",
+     "medida": "1 Porción ",
+     "equivalencia": null,
+     "calorias": "280 ",
+     "proteinas": "19.3 ",
+     "lipidos": "28.6 ",
+     "hc": "6.2 "
+    },
+    {
+     "alimento": "Lomo asado ",
+     "medida": "1 Porción ",
+     "equivalencia": "200 gr ",
+     "calorias": "319 ",
+     "proteinas": "46.0 ",
+     "lipidos": "16.2 ",
+     "hc": "1.2 "
+    },
+    {
+     "alimento": "Longaniza ",
+     "medida": "1 Unidad ",
+     "equivalencia": "50 gr ",
+     "calorias": "258 ",
+     "proteinas": "8.0 ",
+     "lipidos": "23.3 ",
+     "hc": "4.3 "
+    },
+    {
+     "alimento": "Lúcuma ",
+     "medida": "1 Taza coc ",
+     "equivalencia": "100 gr ",
+     "calorias": "12 ",
+     "proteinas": "1.4 ",
+     "lipidos": "0.5 ",
+     "hc": "1,4 "
+    },
+    {
+     "alimento": "Luche ",
+     "medida": "1\/2 Taza ",
+     "equivalencia": "50 gr ",
+     "calorias": "13 ",
+     "proteinas": "1.2 ",
+     "lipidos": "0.4 ",
+     "hc": "2.1 "
+    },
+    {
+     "alimento": "Macedonia",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 150,
+     "proteinas": 1.4,
+     "lipidos": 0.5,
+     "hc": "35 "
+    },
+    {
+     "alimento": "Machas ",
+     "medida": "12 Unidades ",
+     "equivalencia": "100 gr ",
+     "calorias": "75 ",
+     "proteinas": "15.1 ",
+     "lipidos": 1.2,
+     "hc": " 0,5"
+    },
+    {
+     "alimento": "Machas en conservas",
+     "medida": "12 Unidades ",
+     "equivalencia": "100 gr ",
+     "calorias": "124 ",
+     "proteinas": "21.3 ",
+     "lipidos": "2.4 ",
+     "hc": "2.8 "
+    },
+    {
+     "alimento": "Maicena cruda  ",
+     "medida": "1 Cuchda ",
+     "equivalencia": "15 gr ",
+     "calorias": "53 ",
+     "proteinas": "0.1 ",
+     "lipidos": null,
+     "hc": "13.1 "
+    },
+    {
+     "alimento": "Malaya de cerdo ",
+     "medida": "1 Tajada ",
+     "equivalencia": "120 gr ",
+     "calorias": "380 ",
+     "proteinas": "24.0 ",
+     "lipidos": "32.0 ",
+     "hc": null
+    },
+    {
+     "alimento": "Mandarina ",
+     "medida": "1\/2 Taza ",
+     "equivalencia": "100 cc ",
+     "calorias": "40 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "10.1 "
+    },
+    {
+     "alimento": "Mandarina ",
+     "medida": "1 Unidad ",
+     "equivalencia": "50 gr ",
+     "calorias": "18 ",
+     "proteinas": "0.3 ",
+     "lipidos": "0.1 ",
+     "hc": "4.3 "
+    },
+    {
+     "alimento": "Mangos crudos ",
+     "medida": null,
+     "equivalencia": "113 gr ",
+     "calorias": "75 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "19.0 "
+    },
+    {
+     "alimento": "Manhatan dulce ",
+     "medida": "1 Vaso ",
+     "equivalencia": "90 cc ",
+     "calorias": "160 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "7 "
+    },
+    {
+     "alimento": "Maní ",
+     "medida": "1 Unidad ",
+     "equivalencia": "2 gr  ",
+     "calorias": "10 ",
+     "proteinas": "0.4 ",
+     "lipidos": "0.8 ",
+     "hc": "0.3 "
+    },
+    {
+     "alimento": "Manjar ",
+     "medida": "1 Cuchda ",
+     "equivalencia": "20 gr ",
+     "calorias": "61 ",
+     "proteinas": "1.5 ",
+     "lipidos": "0.8 ",
+     "hc": "11.8 "
+    },
+    {
+     "alimento": "Manteca",
+     "medida": "1 Cuchdita ",
+     "equivalencia": " 20 gr",
+     "calorias": "40 ",
+     "proteinas": " 0.6",
+     "lipidos": " 16.0",
+     "hc": " 0.1"
+    },
+    {
+     "alimento": "Mantequilla ",
+     "medida": "1 Cuchdita ",
+     "equivalencia": "5 gr ",
+     "calorias": "37 ",
+     "proteinas": null,
+     "lipidos": " 4.2",
+     "hc": null
+    },
+    {
+     "alimento": "Manzana ",
+     "medida": "1\/2 Taza ",
+     "equivalencia": "100 cc ",
+     "calorias": "48 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "12.2 "
+    },
+    {
+     "alimento": "Manzana asada ",
+     "medida": "1 Porción ",
+     "equivalencia": null,
+     "calorias": "161 ",
+     "proteinas": "0.5 ",
+     "lipidos": null,
+     "hc": null
+    },
+    {
+     "alimento": "Manzana ",
+     "medida": "1 Regular ",
+     "equivalencia": "150 gr. ",
+     "calorias": "53 ",
+     "proteinas": "0.3 ",
+     "lipidos": "0.3 ",
+     "hc": "14.5 "
+    },
+    {
+     "alimento": "Margarina ",
+     "medida": "1 Cuchdita ",
+     "equivalencia": "5 gr ",
+     "calorias": "36 ",
+     "proteinas": null,
+     "lipidos": " 4.1",
+     "hc": null
+    },
+    {
+     "alimento": "Mariscos salsa verde ",
+     "medida": "1 Porción ",
+     "equivalencia": null,
+     "calorias": "190 ",
+     "proteinas": "20.0 ",
+     "lipidos": "7.0 ",
+     "hc": "15.0 "
+    },
+    {
+     "alimento": "Mayonesa",
+     "medida": "1 Cuchda",
+     "equivalencia": "20 gr ",
+     "calorias": 128,
+     "proteinas": "0.3 ",
+     "lipidos": " 13.2",
+     "hc": "1.9 "
+    },
+    {
+     "alimento": " Mazapán",
+     "medida": "1 Unidad",
+     "equivalencia": "10 gr.",
+     "calorias": 38,
+     "proteinas": null,
+     "lipidos": 2,
+     "hc": 5
+    },
+    {
+     "alimento": "Melón escrito",
+     "medida": "1 Porción",
+     "equivalencia": "100 gr.",
+     "calorias": 20,
+     "proteinas": 0.5,
+     "lipidos": 0.3,
+     "hc": 4
+    },
+    {
+     "alimento": "Melón tuna",
+     "medida": "1 unidad",
+     "equivalencia": "1750 gr.",
+     "calorias": 378,
+     "proteinas": 5.1,
+     "lipidos": 2.6,
+     "hc": 91.8
+    },
+    {
+     "alimento": " Melón tuna",
+     "medida": "1 Porción",
+     "equivalencia": "100 gr.",
+     "calorias": 44,
+     "proteinas": 0.6,
+     "lipidos": 0.3,
+     "hc": 10.7
+    },
+    {
+     "alimento": "Membrillo",
+     "medida": "1 Regular",
+     "equivalencia": "200 gr.",
+     "calorias": 71,
+     "proteinas": 0.5,
+     "lipidos": 0.2,
+     "hc": 18.9
+    },
+    {
+     "alimento": "Minestrón",
+     "medida": "1 Plato",
+     "equivalencia": null,
+     "calorias": 320,
+     "proteinas": 14,
+     "lipidos": 4.2,
+     "hc": 53.3
+    },
+    {
+     "alimento": "Merengue con azúcar",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 28,
+     "proteinas": 1.1,
+     "lipidos": null,
+     "hc": 6
+    },
+    {
+     "alimento": "Merengue con fruta",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": 116,
+     "proteinas": 1.6,
+     "lipidos": 0.4,
+     "hc": 30.2
+    },
+    {
+     "alimento": "Mermelada",
+     "medida": "1 Cuchda",
+     "equivalencia": "20 gr.",
+     "calorias": 50,
+     "proteinas": 0.1,
+     "lipidos": null,
+     "hc": 14.2
+    },
+    {
+     "alimento": " Mermelada dietética",
+     "medida": "1 Cuchdita",
+     "equivalencia": "5 gr.",
+     "calorias": 2,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 0.5
+    },
+    {
+     "alimento": "Miel de abeja",
+     "medida": "1 Cuchda",
+     "equivalencia": "20 gr.",
+     "calorias": 60,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 15.8
+    },
+    {
+     "alimento": " Miel de palma",
+     "medida": "1 Cuchda",
+     "equivalencia": "20 gr.",
+     "calorias": 52,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 13
+    },
+    {
+     "alimento": "Milo",
+     "medida": "1 Cuchda",
+     "equivalencia": "7 gr.",
+     "calorias": 18,
+     "proteinas": 1,
+     "lipidos": 0.7,
+     "hc": 4.8
+    },
+    {
+     "alimento": "Mollejas de pavo",
+     "medida": "1 Porción",
+     "equivalencia": "120 gr.",
+     "calorias": 160,
+     "proteinas": 2,
+     "lipidos": 8,
+     "hc": null
+    },
+    {
+     "alimento": "Mollejas de pollo",
+     "medida": "1 Porción",
+     "equivalencia": "120 gr.",
+     "calorias": 155,
+     "proteinas": 30,
+     "lipidos": 4,
+     "hc": null
+    },
+    {
+     "alimento": "Mora",
+     "medida": "1 taza",
+     "equivalencia": "150 gr.",
+     "calorias": 60,
+     "proteinas": 2,
+     "lipidos": null,
+     "hc": 14
+    },
+    {
+     "alimento": "Mora jugo",
+     "medida": "1\/2 taza",
+     "equivalencia": "100 cc",
+     "calorias": 40,
+     "proteinas": null,
+     "lipidos": null,
+     "hc": 8
+    },
+    {
+     "alimento": "Mortadela",
+     "medida": "1 tajada",
+     "equivalencia": "25 gr.",
+     "calorias": 60,
+     "proteinas": 3.7,
+     "lipidos": 4.9,
+     "hc": 1
+    },
+    {
+     "alimento": "Nabo ",
+     "medida": "1 Regular ",
+     "equivalencia": "80 gr ",
+     "calorias": "23 ",
+     "proteinas": "0.9 ",
+     "lipidos": null,
+     "hc": "4.8 "
+    },
+    {
+     "alimento": "Naranja ",
+     "medida": "1 Regular ",
+     "equivalencia": "160 gr ",
+     "calorias": "36 ",
+     "proteinas": "0.7 ",
+     "lipidos": "0.3 ",
+     "hc": "8.7 "
+    },
+    {
+     "alimento": "Naranja ",
+     "medida": "1\/2 Taza ",
+     "equivalencia": "100 cc ",
+     "calorias": "43 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "10.9 "
+    },
+    {
+     "alimento": "Nata",
+     "medida": "1 Cuchda ",
+     "equivalencia": "20 gr ",
+     "calorias": "40 ",
+     "proteinas": "0.6 ",
+     "lipidos": "16.0 ",
+     "hc": "0.1 "
+    },
+    {
+     "alimento": "Néctar ",
+     "medida": "1 Vaso chico ",
+     "equivalencia": "100 cc ",
+     "calorias": "73 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "18.0 "
+    },
+    {
+     "alimento": "Níspero ",
+     "medida": "1 Grande ",
+     "equivalencia": "50 gr ",
+     "calorias": "52 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "13.0 "
+    },
+    {
+     "alimento": "Nueces ",
+     "medida": "1 Unidad ",
+     "equivalencia": "5 gr ",
+     "calorias": "28 ",
+     "proteinas": "0.8 ",
+     "lipidos": "2.5 ",
+     "hc": "0.7 "
+    },
+    {
+     "alimento": "Ñoquis ",
+     "medida": " 1 Plato",
+     "equivalencia": null,
+     "calorias": "320 ",
+     "proteinas": "10 ",
+     "lipidos": "3 ",
+     "hc": "60 "
+    },
+    {
+     "alimento": "Oporto ",
+     "medida": " 1 Copita",
+     "equivalencia": "30 cc ",
+     "calorias": "45 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "3(5)° "
+    },
+    {
+     "alimento": "Orange Crush ",
+     "medida": "1 Vaso chico ",
+     "equivalencia": "100 cc ",
+     "calorias": "52 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "12.9 "
+    },
+    {
+     "alimento": "Ostras  ",
+     "medida": "6 Unidades ",
+     "equivalencia": "100 gr ",
+     "calorias": "80 ",
+     "proteinas": "9.0 ",
+     "lipidos": "2.0 ",
+     "hc": "6.5 "
+    },
+    {
+     "alimento": "Ostiones ",
+     "medida": "6 Unidades ",
+     "equivalencia": "100 gr ",
+     "calorias": "144 ",
+     "proteinas": "12.0 ",
+     "lipidos": " 8.0",
+     "hc": "6.0 "
+    },
+    {
+     "alimento": "Palmitos  ",
+     "medida": "3 Unidades ",
+     "equivalencia": "120 gr ",
+     "calorias": "30 ",
+     "proteinas": "3.0 ",
+     "lipidos": null,
+     "hc": " 5.0"
+    },
+    {
+     "alimento": "Palomitas de maíz ",
+     "medida": "1 Taza ",
+     "equivalencia": "50 gr.",
+     "calorias": "150 ",
+     "proteinas": "5.0 ",
+     "lipidos": "3.0 ",
+     "hc": "25.0 "
+    },
+    {
+     "alimento": "Palta ",
+     "medida": "1\/2 Regular ",
+     "equivalencia": "60 gr ",
+     "calorias": "108 ",
+     "proteinas": "0.8 ",
+     "lipidos": "11.2 ",
+     "hc": "3.3 "
+    },
+    {
+     "alimento": "Palta Molida",
+     "medida": "1 Cuchda ",
+     "equivalencia": "32 gr ",
+     "calorias": "58 ",
+     "proteinas": "0.4 ",
+     "lipidos": "6.0 ",
+     "hc": "1.8 "
+    },
+    {
+     "alimento": "Palta Rellena ",
+     "medida": "1 Porción  ",
+     "equivalencia": null,
+     "calorias": "316 ",
+     "proteinas": "7.0 ",
+     "lipidos": "30.4 ",
+     "hc": "4.6 "
+    },
+    {
+     "alimento": "Pan Blanco Molde ",
+     "medida": "1 Rebanada ",
+     "equivalencia": "30 gr ",
+     "calorias": "60 ",
+     "proteinas": 1.7,
+     "lipidos": "0.8 ",
+     "hc": "10.3 "
+    },
+    {
+     "alimento": "Pan Centeno ",
+     "medida": "1 Unidad ",
+     "equivalencia": "100 gr ",
+     "calorias": "229 ",
+     "proteinas": "10.0 ",
+     "lipidos": "1.0 ",
+     "hc": "45.0 "
+    },
+    {
+     "alimento": "Pan con Fiambre ",
+     "medida": "1 Unidad ",
+     "equivalencia": "140 gr ",
+     "calorias": "411 ",
+     "proteinas": "14.2 ",
+     "lipidos": "11.0 ",
+     "hc": "63.2 "
+    },
+    {
+     "alimento": "Pan con Fiambre y Mantequilla ",
+     "medida": "1 Unidad",
+     "equivalencia": "152 gr ",
+     "calorias": "447 ",
+     "proteinas": "14.2 ",
+     "lipidos": "28.5 ",
+     "hc": "63.2 "
+    },
+    {
+     "alimento": "Pan con Manjar ",
+     "medida": "1 Unidad ",
+     "equivalencia": "140 gr ",
+     "calorias": "430 ",
+     "proteinas": "11.2 ",
+     "lipidos": "5.6 ",
+     "hc": "85.3 "
+    },
+    {
+     "alimento": "Pan con Mermelada ",
+     "medida": "1 Unidad ",
+     "equivalencia": "140 gr ",
+     "calorias": "373 ",
+     "proteinas": "8.4 ",
+     "lipidos": "4.0 ",
+     "hc": "79.1 "
+    },
+    {
+     "alimento": "Pan con Pateé ",
+     "medida": "1 Unidad ",
+     "equivalencia": "130 gr ",
+     "calorias": "437 ",
+     "proteinas": "11.0 ",
+     "lipidos": "17.0 ",
+     "hc": "62.0 "
+    },
+    {
+     "alimento": "Pan con Queso ",
+     "medida": "1 Unidad ",
+     "equivalencia": "140 gr ",
+     "calorias": "449 ",
+     "proteinas": "18.2 ",
+     "lipidos": "14.2 ",
+     "hc": "63.7 "
+    },
+    {
+     "alimento": "Pan con Queso y Mantequilla ",
+     "medida": "1 Unidad ",
+     "equivalencia": "153 gr ",
+     "calorias": "595 ",
+     "proteinas": "18.2 ",
+     "lipidos": "30.8 ",
+     "hc": "63.7 "
+    },
+    {
+     "alimento": "Pan de Gluten ",
+     "medida": "1 Unidad ",
+     "equivalencia": "100 gr ",
+     "calorias": "208 ",
+     "proteinas": "10.0 ",
+     "lipidos": null,
+     "hc": "42.0 "
+    },
+    {
+     "alimento": "Pan Especial ",
+     "medida": "1 Unidad ",
+     "equivalencia": "60 gr ",
+     "calorias": "185 ",
+     "proteinas": "4.9 ",
+     "lipidos": "2.4 ",
+     "hc": "24.6 "
+    },
+    {
+     "alimento": "Pan Hallulla ",
+     "medida": "1 Unidad ",
+     "equivalencia": "100 gr ",
+     "calorias": "309 ",
+     "proteinas": "8.2 ",
+     "lipidos": "4.0 ",
+     "hc": "61.6 "
+    },
+    {
+     "alimento": "Pan Dietético ",
+     "medida": "1 Rebanada ",
+     "equivalencia": "30 gr ",
+     "calorias": "30 ",
+     "proteinas": "1 ",
+     "lipidos": "0,5 ",
+     "hc": "5 "
+    },
+    {
+     "alimento": "Pan Integral ",
+     "medida": "1 Unidad ",
+     "equivalencia": "100 gr  ",
+     "calorias": "276 ",
+     "proteinas": "8.5 ",
+     "lipidos": "1.5 ",
+     "hc": "57.0 "
+    },
+    {
+     "alimento": "Pan Marraqueta ",
+     "medida": "1 Unidad ",
+     "equivalencia": "100 gr  ",
+     "calorias": "267 ",
+     "proteinas": "6.4 ",
+     "lipidos": "0.7 ",
+     "hc": "60.0 "
+    },
+    {
+     "alimento": "Panqueques ",
+     "medida": "1 Unidad ",
+     "equivalencia": "70 gr ",
+     "calorias": "160 ",
+     "proteinas": "2.8 ",
+     "lipidos": "3.7 ",
+     "hc": "29.8 "
+    },
+    {
+     "alimento": "Pantrucas ",
+     "medida": "1 Plato ",
+     "equivalencia": null,
+     "calorias": "350 ",
+     "proteinas": "10 ",
+     "lipidos": "7 ",
+     "hc": "60 "
+    },
+    {
+     "alimento": "Papas ",
+     "medida": "1 RegCocida ",
+     "equivalencia": "100 gr ",
+     "calorias": "71 ",
+     "proteinas": "2.6 ",
+     "lipidos": "0.1 ",
+     "hc": "16.7 "
+    },
+    {
+     "alimento": "Papas Duquesas ",
+     "medida": "1 Unidad ",
+     "equivalencia": null,
+     "calorias": "55 ",
+     "proteinas": "1.7 ",
+     "lipidos": "2,4 ",
+     "hc": "6,4 "
+    },
+    {
+     "alimento": "Papas Duquesas ",
+     "medida": "1 Porción ",
+     "equivalencia": null,
+     "calorias": "295 ",
+     "proteinas": "10.9 ",
+     "lipidos": "12 ",
+     "hc": "32 "
+    },
+    {
+     "alimento": "Papas Fritas ",
+     "medida": "1 Unidad",
+     "equivalencia": null,
+     "calorias": "19 ",
+     "proteinas": "0,5 ",
+     "lipidos": "0,5 ",
+     "hc": "4 "
+    },
+    {
+     "alimento": "Papas Fritas ",
+     "medida": "1 Porción ",
+     "equivalencia": null,
+     "calorias": "368 ",
+     "proteinas": "8.7 ",
+     "lipidos": "9.6 ",
+     "hc": "76.2 "
+    },
+    {
+     "alimento": "Papas Rellenas ",
+     "medida": "1 Unidad ",
+     "equivalencia": null,
+     "calorias": "400 ",
+     "proteinas": "19.2 ",
+     "lipidos": "14.0 ",
+     "hc": "48.0 "
+    },
+    {
+     "alimento": "Papayas Jugo  ",
+     "medida": "1 Vaso chico ",
+     "equivalencia": "100 cc ",
+     "calorias": "36 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "9.0 "
+    },
+    {
+     "alimento": "Papayas crudas ",
+     "medida": "1 Regular ",
+     "equivalencia": "200 gr ",
+     "calorias": "65 ",
+     "proteinas": " 0.9",
+     "lipidos": null,
+     "hc": "15.0 "
+    },
+    {
+     "alimento": "Pasas ",
+     "medida": "1 Unidad ",
+     "equivalencia": " 1 gr",
+     "calorias": "3 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "0.7 "
+    },
+    {
+     "alimento": "Pastel ",
+     "medida": "1 Unidad ",
+     "equivalencia": "120 gr ",
+     "calorias": "350 ",
+     "proteinas": "2.0 ",
+     "lipidos": "6.0 ",
+     "hc": "75.0 "
+    },
+    {
+     "alimento": "Pastel de Carne ",
+     "medida": "1 Porción ",
+     "equivalencia": null,
+     "calorias": "275 ",
+     "proteinas": "11.0 ",
+     "lipidos": "16.0 ",
+     "hc": "21.0 "
+    },
+    {
+     "alimento": "Pastel de Choclo ",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": "390 ",
+     "proteinas": "21.7 ",
+     "lipidos": "27.2 ",
+     "hc": "60.7 "
+    },
+    {
+     "alimento": "Pastel de Mil Hojas ",
+     "medida": "1 Unidad ",
+     "equivalencia": "120 gr ",
+     "calorias": "394 ",
+     "proteinas": "4.0 ",
+     "lipidos": "14.0 ",
+     "hc": "72.0 "
+    },
+    {
+     "alimento": "Pastel de Papas ",
+     "medida": "1 Porción ",
+     "equivalencia": null,
+     "calorias": "376 ",
+     "proteinas": "21.6 ",
+     "lipidos": " 14.6",
+     "hc": "51.2 "
+    },
+    {
+     "alimento": "Pastelillos de cóctel ",
+     "medida": "1 Unidad ",
+     "equivalencia": "40 gr ",
+     "calorias": "90 ",
+     "proteinas": "1.4 ",
+     "lipidos": "1.5 ",
+     "hc": "18.7 "
+    },
+    {
+     "alimento": "Pastillas de Menta ",
+     "medida": "1 Unidad ",
+     "equivalencia": "3 gr  ",
+     "calorias": "11 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "2.7 "
+    },
+    {
+     "alimento": "Patees ",
+     "medida": "1 Tripa ",
+     "equivalencia": "120 gr ",
+     "calorias": "514 ",
+     "proteinas": "13.8 ",
+     "lipidos": "50.4 ",
+     "hc": "1.6 "
+    },
+    {
+     "alimento": "Patees ",
+     "medida": "1 Porción ",
+     "equivalencia": "15 gr ",
+     "calorias": "65 ",
+     "proteinas": "1.7 ",
+     "lipidos": "6.3 ",
+     "hc": "0.2 "
+    },
+    {
+     "alimento": "Patitas de Cerdo ",
+     "medida": "1 Unid. Reg.  ",
+     "equivalencia": "300 gr. ",
+     "calorias": "277 ",
+     "proteinas": "30.3 ",
+     "lipidos": "33.0 ",
+     "hc": "0.0 "
+    },
+    {
+     "alimento": "Pato Asado ",
+     "medida": "1 TrozoChico ",
+     "equivalencia": "100 gr ",
+     "calorias": "190 ",
+     "proteinas": "2.4 ",
+     "lipidos": "9.4 ",
+     "hc": "0.3 "
+    },
+    {
+     "alimento": "Pato Orange ",
+     "medida": "1 Porción ",
+     "equivalencia": "150 gr. ",
+     "calorias": "240 ",
+     "proteinas": "30.0 ",
+     "lipidos": "10.0 ",
+     "hc": "7.0 "
+    },
+    {
+     "alimento": "Pavo Asado ",
+     "medida": "1 TrozoChico ",
+     "equivalencia": "100 gr ",
+     "calorias": "149 ",
+     "proteinas": "24.1 ",
+     "lipidos": "4.0 ",
+     "hc": "1.4 "
+    },
+    {
+     "alimento": "Penca Picada ",
+     "medida": "1\/2 Taza ",
+     "equivalencia": "100 gr ",
+     "calorias": "21 ",
+     "proteinas": "0.4 ",
+     "lipidos": "0.2 ",
+     "hc": "4.4 "
+    },
+    {
+     "alimento": "Pepinillo fresco ",
+     "medida": "2 Unidades ",
+     "equivalencia": "100 gr ",
+     "calorias": "11 ",
+     "proteinas": "0.7 ",
+     "lipidos": null,
+     "hc": "2.0 "
+    },
+    {
+     "alimento": "Pepinillo Pickle ",
+     "medida": "4 Unidades ",
+     "equivalencia": "100 gr ",
+     "calorias": "25 ",
+     "proteinas": "2.0 ",
+     "lipidos": null,
+     "hc": "5.0 "
+    },
+    {
+     "alimento": "Pepino ",
+     "medida": "1Taza Picada ",
+     "equivalencia": "100 gr ",
+     "calorias": "11 ",
+     "proteinas": "0.7 ",
+     "lipidos": "0.2 ",
+     "hc": "1.9 "
+    },
+    {
+     "alimento": "Pepino ",
+     "medida": "1 Regular ",
+     "equivalencia": "150 gr. ",
+     "calorias": "25 ",
+     "proteinas": "0.4 ",
+     "lipidos": "0.1 ",
+     "hc": "6.3 "
+    },
+    {
+     "alimento": "Pepsi cola ",
+     "medida": "1 Vaso chico ",
+     "equivalencia": "100 cc ",
+     "calorias": "43 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "10.7 "
+    },
+    {
+     "alimento": "Pera ",
+     "medida": "1 Regular ",
+     "equivalencia": "150 gr. ",
+     "calorias": "58 ",
+     "proteinas": "0.4 ",
+     "lipidos": "0.5 ",
+     "hc": "14.5 "
+    },
+    {
+     "alimento": "Pera ",
+     "medida": "1\/2 Taza ",
+     "equivalencia": "100 cc ",
+     "calorias": "42 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "10.6 "
+    },
+    {
+     "alimento": "Pera al jugo ",
+     "medida": "1 Tarro ",
+     "equivalencia": "560 gr ",
+     "calorias": "381 ",
+     "proteinas": "1.1 ",
+     "lipidos": "0.6 ",
+     "hc": "103.0 "
+    },
+    {
+     "alimento": "Pera compota ",
+     "medida": "1 Porción ",
+     "equivalencia": "60 gr ",
+     "calorias": "40 ",
+     "proteinas": "0.2 ",
+     "lipidos": "0.1 ",
+     "hc": "10.3 "
+    },
+    {
+     "alimento": "Perejil ",
+     "medida": "1 Taza ",
+     "equivalencia": "100 gr ",
+     "calorias": "42 ",
+     "proteinas": "3.5 ",
+     "lipidos": null,
+     "hc": "7.0 "
+    },
+    {
+     "alimento": "Pernil ",
+     "medida": "1 Porción ",
+     "equivalencia": "150 gr. ",
+     "calorias": "230 ",
+     "proteinas": "33.0 ",
+     "lipidos": "11.0 ",
+     "hc": null
+    },
+    {
+     "alimento": "Pescado Ahumado ",
+     "medida": "1 Porción ",
+     "equivalencia": "100 gr ",
+     "calorias": "120 ",
+     "proteinas": "26.0 ",
+     "lipidos": "1.0 ",
+     "hc": null
+    },
+    {
+     "alimento": "Pescado al Curry ",
+     "medida": "1 Porción ",
+     "equivalencia": "200 gr ",
+     "calorias": "220 ",
+     "proteinas": "35.0 ",
+     "lipidos": "8.0 ",
+     "hc": "7.0 "
+    },
+    {
+     "alimento": "Pescado al Jugo ",
+     "medida": "1 Porción  ",
+     "equivalencia": null,
+     "calorias": "230 ",
+     "proteinas": "31.0 ",
+     "lipidos": "6.0 ",
+     "hc": "4.1 "
+    },
+    {
+     "alimento": "Pescada al vapor ",
+     "medida": "1 Porción",
+     "equivalencia": "150 gr ",
+     "calorias": "117 ",
+     "proteinas": "26.0 ",
+     "lipidos": "0.6 ",
+     "hc": "0.5 "
+    },
+    {
+     "alimento": "Pescado tártara ",
+     "medida": "1 Porción ",
+     "equivalencia": null,
+     "calorias": "120 ",
+     "proteinas": "18.4 ",
+     "lipidos": "33.0 ",
+     "hc": "2.1 "
+    },
+    {
+     "alimento": "Pichanga ",
+     "medida": "1 Porción  ",
+     "equivalencia": "100 gr ",
+     "calorias": "29 ",
+     "proteinas": "11.7 ",
+     "lipidos": "14.3 ",
+     "hc": " 13.4"
+    },
+    {
+     "alimento": "Pie de Limón ",
+     "medida": "1 Porción  ",
+     "equivalencia": "120 gr ",
+     "calorias": "300 ",
+     "proteinas": "4.0 ",
+     "lipidos": "12.0 ",
+     "hc": "45.0 "
+    },
+    {
+     "alimento": "Pimentón ",
+     "medida": "1 Medida ",
+     "equivalencia": "95 gr ",
+     "calorias": "52 ",
+     "proteinas": "5.2 ",
+     "lipidos": null,
+     "hc": "8.0 "
+    },
+    {
+     "alimento": "Pino de Carne ",
+     "medida": "1 Porción ",
+     "equivalencia": null,
+     "calorias": "177 ",
+     "proteinas": "16.1 ",
+     "lipidos": "11.9 ",
+     "hc": "3.4 "
+    },
+    {
+     "alimento": "Piña ",
+     "medida": "1 Rodela ",
+     "equivalencia": "50 gr ",
+     "calorias": "30 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "7.0 "
+    },
+    {
+     "alimento": "Piña ",
+     "medida": "1\/2 Taza ",
+     "equivalencia": "100 cc ",
+     "calorias": "52 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "13.0 "
+    },
+    {
+     "alimento": "Piña al Jugo ",
+     "medida": "1 Tarro ",
+     "equivalencia": "600 gr ",
+     "calorias": "340 ",
+     "proteinas": "2.4 ",
+     "lipidos": "0.6 ",
+     "hc": "78.6 "
+    },
+    {
+     "alimento": "Piña en conserva ",
+     "medida": "1 Torreja ",
+     "equivalencia": null,
+     "calorias": "83 ",
+     "proteinas": "0.1 ",
+     "lipidos": "0.1 ",
+     "hc": "20.7 "
+    },
+    {
+     "alimento": "Piñones ",
+     "medida": null,
+     "equivalencia": "36 gr ",
+     "calorias": "310 ",
+     "proteinas": "17.0 ",
+     "lipidos": "27.0 ",
+     "hc": "7.0 "
+    },
+    {
+     "alimento": "Pisco ",
+     "medida": "1 Copita ",
+     "equivalencia": "50 cc ",
+     "calorias": "181 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "1(26)° "
+    },
+    {
+     "alimento": "Piure ",
+     "medida": "1\/4 Taza ",
+     "equivalencia": "100 gr ",
+     "calorias": "46 ",
+     "proteinas": "8.8 ",
+     "lipidos": "0.9 ",
+     "hc": "3.9 "
+    },
+    {
+     "alimento": "Pizza 1\/m ",
+     "medida": "1 Unidad ",
+     "equivalencia": "120 gr ",
+     "calorias": "240 ",
+     "proteinas": "14.0 ",
+     "lipidos": "9.0 ",
+     "hc": "25.0 "
+    },
+    {
+     "alimento": "Plátano ",
+     "medida": "1 Regular ",
+     "equivalencia": "200 gr ",
+     "calorias": "110 ",
+     "proteinas": "1.6 ",
+     "lipidos": "0.5 ",
+     "hc": "26.6 "
+    },
+    {
+     "alimento": "Pollo-Ala ",
+     "medida": "1 Presa",
+     "equivalencia": "50 gr ",
+     "calorias": "34 ",
+     "proteinas": "6.7 ",
+     "lipidos": "1.2 ",
+     "hc": null
+    },
+    {
+     "alimento": "Pollo-Pechuga ",
+     "medida": "1 Presa ",
+     "equivalencia": "140 gr ",
+     "calorias": "150 ",
+     "proteinas": "26.8 ",
+     "lipidos": "4.6 ",
+     "hc": null
+    },
+    {
+     "alimento": "Pollo-Pierna ",
+     "medida": "1 Presa reg ",
+     "equivalencia": "120 gr ",
+     "calorias": "125 ",
+     "proteinas": "22.2 ",
+     "lipidos": "4.0 ",
+     "hc": null
+    },
+    {
+     "alimento": "Pollo-Menudencias ",
+     "medida": "1 Porción ",
+     "equivalencia": "100 gr ",
+     "calorias": "100 ",
+     "proteinas": "18.0 ",
+     "lipidos": "3.0 ",
+     "hc": "1.0 "
+    },
+    {
+     "alimento": "Pollo al Curry (salsa)",
+     "medida": "1 Presa ",
+     "equivalencia": "150 gr ",
+     "calorias": "200 ",
+     "proteinas": "20.0 ",
+     "lipidos": "10.0 ",
+     "hc": "7.0 "
+    },
+    {
+     "alimento": "Pollo al jugo",
+     "medida": "1\/4 Unidad ",
+     "equivalencia": "250 gr ",
+     "calorias": "274 ",
+     "proteinas": "23.9 ",
+     "lipidos": "16.1 ",
+     "hc": "5.7 "
+    },
+    {
+     "alimento": "Pollo asado con mantequilla ",
+     "medida": "1\/4 Unidad ",
+     "equivalencia": "150 gr ",
+     "calorias": "240 ",
+     "proteinas": "22.8 ",
+     "lipidos": "15.6 ",
+     "hc": null
+    },
+    {
+     "alimento": "Pollo frito apanado ",
+     "medida": "1 Presa ",
+     "equivalencia": "130 gr ",
+     "calorias": "190 ",
+     "proteinas": "2.0 ",
+     "lipidos": "9.0 ",
+     "hc": "8.0 "
+    },
+    {
+     "alimento": "Pomelo ",
+     "medida": "1 Unidad Chica ",
+     "equivalencia": "120 gr ",
+     "calorias": "28 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "7.0 "
+    },
+    {
+     "alimento": "Porotos cocidos  ",
+     "medida": "1 Taza  ",
+     "equivalencia": "70 gr ",
+     "calorias": "241 ",
+     "proteinas": "14.4 ",
+     "lipidos": "1.1 ",
+     "hc": "37.3 "
+    },
+    {
+     "alimento": "Porotos con tallarines ",
+     "medida": "1 Plato ",
+     "equivalencia": null,
+     "calorias": "475 ",
+     "proteinas": "20.2 ",
+     "lipidos": "13.3 ",
+     "hc": "61.7 "
+    },
+    {
+     "alimento": "Porotos granados ",
+     "medida": "1 Plato ",
+     "equivalencia": null,
+     "calorias": "335 ",
+     "proteinas": "4.2 ",
+     "lipidos": "5.5 ",
+     "hc": "63.4 "
+    },
+    {
+     "alimento": "Porotos granados cocidos ",
+     "medida": "1\/2 Taza",
+     "equivalencia": "100 gr ",
+     "calorias": "135 ",
+     "proteinas": "1.5 ",
+     "lipidos": "0.4 ",
+     "hc": "31.1 "
+    },
+    {
+     "alimento": "Porotos verdes cocidos ",
+     "medida": "1\/2 Taza ",
+     "equivalencia": "90 gr ",
+     "calorias": "19 ",
+     "proteinas": "1.4 ",
+     "lipidos": "0.3 ",
+     "hc": "3.2 "
+    },
+    {
+     "alimento": "Porotos verdes crudos ",
+     "medida": "13 Unidades ",
+     "equivalencia": "100 gr ",
+     "calorias": "28 ",
+     "proteinas": "2.3 ",
+     "lipidos": "0.3 ",
+     "hc": "4.7 "
+    },
+    {
+     "alimento": "Porrones ",
+     "medida": "1 Unidad ",
+     "equivalencia": "80 gr ",
+     "calorias": "24 ",
+     "proteinas": "1.6 ",
+     "lipidos": null,
+     "hc": "4.4 "
+    },
+    {
+     "alimento": "Postre de Leche 1\/m",
+     "medida": "1 Compota ",
+     "equivalencia": null,
+     "calorias": "237 ",
+     "proteinas": "7.2 ",
+     "lipidos": "5.4 ",
+     "hc": "41.8 "
+    },
+    {
+     "alimento": "Prietas ",
+     "medida": "1 Unidad ",
+     "equivalencia": "100 gr ",
+     "calorias": "124 ",
+     "proteinas": "10.5 ",
+     "lipidos": "8.5 ",
+     "hc": "1.3 "
+    },
+    {
+     "alimento": "Puré de castañas ",
+     "medida": "1 Porción ",
+     "equivalencia": null,
+     "calorias": "185 ",
+     "proteinas": "4.0 ",
+     "lipidos": "7.0 ",
+     "hc": "26.0 "
+    },
+    {
+     "alimento": "Puré de manzanas s\/azuc ",
+     "medida": "1 Porción",
+     "equivalencia": null,
+     "calorias": " 55",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "13.0 "
+    },
+    {
+     "alimento": "Puré de manzanas c\/azuc",
+     "medida": "1 Porción ",
+     "equivalencia": null,
+     "calorias": "100 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "25.0 "
+    },
+    {
+     "alimento": "Puré de Papas ",
+     "medida": "1 Porción  ",
+     "equivalencia": null,
+     "calorias": "300 ",
+     "proteinas": "12.5 ",
+     "lipidos": "11.5 ",
+     "hc": "56.0 "
+    },
+    {
+     "alimento": "Quesillo ",
+     "medida": "1 Tajada ",
+     "equivalencia": "30 gr  ",
+     "calorias": "33 ",
+     "proteinas": "5.0 ",
+     "lipidos": "1.0 ",
+     "hc": "0.9 "
+    },
+    {
+     "alimento": "Quesillo ",
+     "medida": "1 Tubo ",
+     "equivalencia": "360 gr ",
+     "calorias": "399 ",
+     "proteinas": "59.0 ",
+     "lipidos": "11.9 ",
+     "hc": "11.2 "
+    },
+    {
+     "alimento": "Queso de Cabra",
+     "medida": "1 Tajada ",
+     "equivalencia": "30 gr ",
+     "calorias": "120 ",
+     "proteinas": "9.0 ",
+     "lipidos": "5.0 ",
+     "hc": null
+    },
+    {
+     "alimento": "Queso Crema ",
+     "medida": "1 Cuchdita ",
+     "equivalencia": "5 gr ",
+     "calorias": "13 ",
+     "proteinas": "4.0 ",
+     "lipidos": "5.0 ",
+     "hc": "0.4 "
+    },
+    {
+     "alimento": "Queso Crema ",
+     "medida": "1 Triángulo ",
+     "equivalencia": "55 gr ",
+     "calorias": "143 ",
+     "proteinas": "9.9 ",
+     "lipidos": "1.6 ",
+     "hc": null
+    },
+    {
+     "alimento": "Queso de Cabezas ",
+     "medida": "1 Tajada ",
+     "equivalencia": "30 gr ",
+     "calorias": "80 ",
+     "proteinas": "5.0 ",
+     "lipidos": "7.0 ",
+     "hc": null
+    },
+    {
+     "alimento": "Queso fresco ",
+     "medida": "1 Porción ",
+     "equivalencia": "30 gr ",
+     "calorias": "33 ",
+     "proteinas": "4.9 ",
+     "lipidos": "1.0 ",
+     "hc": "0.9 "
+    },
+    {
+     "alimento": "Queso en general ",
+     "medida": "1 Tajada ",
+     "equivalencia": "30 gr ",
+     "calorias": "107 ",
+     "proteinas": "6.8 ",
+     "lipidos": "8.7 ",
+     "hc": "0.4 "
+    },
+    {
+     "alimento": "Queso Holandés (bola) ",
+     "medida": "1 Tajada ",
+     "equivalencia": "30 gr ",
+     "calorias": "115 ",
+     "proteinas": "8.4 ",
+     "lipidos": "9.0 ",
+     "hc": null
+    },
+    {
+     "alimento": "Queso rayado Parmesano ",
+     "medida": "1 Cuchda ",
+     "equivalencia": "15 gr ",
+     "calorias": "50 ",
+     "proteinas": "5.0 ",
+     "lipidos": "3.0 ",
+     "hc": null
+    },
+    {
+     "alimento": "Queso Ricotte ",
+     "medida": "1 Tajada ",
+     "equivalencia": "30 gr ",
+     "calorias": "120 ",
+     "proteinas": "9.0 ",
+     "lipidos": "5.0 ",
+     "hc": null
+    },
+    {
+     "alimento": "Rabanitos ",
+     "medida": "1 Grande ",
+     "equivalencia": "20 gr ",
+     "calorias": "3 ",
+     "proteinas": "0.2 ",
+     "lipidos": "0.1 ",
+     "hc": "0.4 "
+    },
+    {
+     "alimento": "Refrescos Polvo ",
+     "medida": "1 Vaso chico ",
+     "equivalencia": "100 cc ",
+     "calorias": "37 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "9.3 "
+    },
+    {
+     "alimento": "Repollo Cocido ",
+     "medida": "1\/2 Taza ",
+     "equivalencia": "100 gr ",
+     "calorias": "20 ",
+     "proteinas": "1.8 ",
+     "lipidos": "0.3 ",
+     "hc": "2 "
+    },
+    {
+     "alimento": "Repollo crudo ",
+     "medida": "1 Taza ",
+     "equivalencia": "80 gr ",
+     "calorias": "16 ",
+     "proteinas": "1.4 ",
+     "lipidos": "0.2 ",
+     "hc": "4.2 "
+    },
+    {
+     "alimento": "Requesón ",
+     "medida": "1 Cuchda ",
+     "equivalencia": "20 gr ",
+     "calorias": "33 ",
+     "proteinas": "1.7 ",
+     "lipidos": "2.4 ",
+     "hc": "1.0 "
+    },
+    {
+     "alimento": "Ron ",
+     "medida": "1 Copita  ",
+     "equivalencia": "50 cc ",
+     "calorias": "122 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "(30)° "
+    },
+    {
+     "alimento": "Riñón de Cordero ",
+     "medida": "1 Porción ",
+     "equivalencia": "120 gr ",
+     "calorias": "125 ",
+     "proteinas": "19.0 ",
+     "lipidos": "4.0 ",
+     "hc": "1.0 "
+    },
+    {
+     "alimento": "Riñón de Cerdo",
+     "medida": "1 Porción ",
+     "equivalencia": "120 gr ",
+     "calorias": "115 ",
+     "proteinas": "18.0 ",
+     "lipidos": "4.0 ",
+     "hc": " 2.0"
+    },
+    {
+     "alimento": "Riñón de Vacuno",
+     "medida": "1 Porción ",
+     "equivalencia": "120 gr ",
+     "calorias": "104 ",
+     "proteinas": "20.2 ",
+     "lipidos": "2.0 ",
+     "hc": "1.4 "
+    },
+    {
+     "alimento": "Roastbeef ",
+     "medida": "1 Porción ",
+     "equivalencia": "150 gr ",
+     "calorias": "250 ",
+     "proteinas": "28.0 ",
+     "lipidos": "15.0 ",
+     "hc": null
+    },
+    {
+     "alimento": "Salsa blanca",
+     "medida": "1 Cuchda",
+     "equivalencia": "20 cc ",
+     "calorias": " 25",
+     "proteinas": " 1.0",
+     "lipidos": "2.0 ",
+     "hc": "1.0 "
+    },
+    {
+     "alimento": "Salame ",
+     "medida": "1 Tajada ",
+     "equivalencia": "15 gr ",
+     "calorias": "67 ",
+     "proteinas": "3.2 ",
+     "lipidos": "5.7 ",
+     "hc": "0.3 "
+    },
+    {
+     "alimento": "Surtido para caldillo ",
+     "medida": "1 Tarro ",
+     "equivalencia": "220 gr ",
+     "calorias": "174 ",
+     "proteinas": "35.0 ",
+     "lipidos": "2.2 ",
+     "hc": "11.2 "
+    },
+    {
+     "alimento": "Salmón ",
+     "medida": "1 Tarro ",
+     "equivalencia": "460 gr ",
+     "calorias": "782 ",
+     "proteinas": "95.2 ",
+     "lipidos": "41.4 ",
+     "hc": null
+    },
+    {
+     "alimento": "Salmón Ahumado ",
+     "medida": "1 Porción ",
+     "equivalencia": "50 gr ",
+     "calorias": "185 ",
+     "proteinas": "24.0 ",
+     "lipidos": "10.0 ",
+     "hc": null
+    },
+    {
+     "alimento": "Salmón crudo ",
+     "medida": "1 Porción ",
+     "equivalencia": "150 gr ",
+     "calorias": "296 ",
+     "proteinas": "30.0 ",
+     "lipidos": "19.5 ",
+     "hc": null
+    },
+    {
+     "alimento": "Salmón en aceite ",
+     "medida": "1 Lata Reg ",
+     "equivalencia": "120 gr ",
+     "calorias": "185 ",
+     "proteinas": "19.5 ",
+     "lipidos": "11 ",
+     "hc": null
+    },
+    {
+     "alimento": "Salpicón ",
+     "medida": "1 Porción ",
+     "equivalencia": null,
+     "calorias": "218 ",
+     "proteinas": "14.5 ",
+     "lipidos": "15.5 ",
+     "hc": "5.9 "
+    },
+    {
+     "alimento": "Sandia ",
+     "medida": "1 Trozo Chico ",
+     "equivalencia": "160 gr ",
+     "calorias": "38 ",
+     "proteinas": "0.8 ",
+     "lipidos": "0.3 ",
+     "hc": "7.7 "
+    },
+    {
+     "alimento": "Sardina en aceite ",
+     "medida": "1 Lata Reg",
+     "equivalencia": "150 gr ",
+     "calorias": "350 ",
+     "proteinas": "34,5 ",
+     "lipidos": "22,5 ",
+     "hc": "0 "
+    },
+    {
+     "alimento": "Sardina en aceite ",
+     "medida": "1 Porción ",
+     "equivalencia": "50 gr ",
+     "calorias": "117 ",
+     "proteinas": "11.5 ",
+     "lipidos": "7.5 ",
+     "hc": " 0.9"
+    },
+    {
+     "alimento": "Sémola con leche",
+     "medida": "1 Compota ",
+     "equivalencia": null,
+     "calorias": "260 ",
+     "proteinas": "7.9 ",
+     "lipidos": "5.8 ",
+     "hc": "49.3 "
+    },
+    {
+     "alimento": "Sémola cruda ",
+     "medida": "1 Cuchda ",
+     "equivalencia": "15 gr ",
+     "calorias": "45 ",
+     "proteinas": "1.2 ",
+     "lipidos": "0.1 ",
+     "hc": "11.6 "
+    },
+    {
+     "alimento": "Sesos de cerdo  ",
+     "medida": "1 Porción ",
+     "equivalencia": "100 gr ",
+     "calorias": "140 ",
+     "proteinas": "12.0 ",
+     "lipidos": "10.0 ",
+     "hc": "2.0 "
+    },
+    {
+     "alimento": "Sesos de vacuno ",
+     "medida": "1 Porción ",
+     "equivalencia": "100 gr ",
+     "calorias": "145 ",
+     "proteinas": "11.6 ",
+     "lipidos": "10.6 ",
+     "hc": null
+    },
+    {
+     "alimento": "Sidra ",
+     "medida": "1 Copita",
+     "equivalencia": "30 cc ",
+     "calorias": "10 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "1.0  "
+    },
+    {
+     "alimento": "Sopa con verdura y arroz ",
+     "medida": "1 Plato ",
+     "equivalencia": null,
+     "calorias": "140 ",
+     "proteinas": "1.8 ",
+     "lipidos": "4.3 ",
+     "hc": "23.8 "
+    },
+    {
+     "alimento": "Sopa de mariscos ",
+     "medida": "1 Plato ",
+     "equivalencia": null,
+     "calorias": "160 ",
+     "proteinas": "13.1 ",
+     "lipidos": "3.1 ",
+     "hc": "18.5 "
+    },
+    {
+     "alimento": "Sopa deshidratada ",
+     "medida": "1 Plato ",
+     "equivalencia": null,
+     "calorias": "63 ",
+     "proteinas": "2.2 ",
+     "lipidos": "1.3 ",
+     "hc": "10.7 "
+    },
+    {
+     "alimento": "Sopaipilla ",
+     "medida": "1 Unidad ",
+     "equivalencia": "50 gr ",
+     "calorias": "130 ",
+     "proteinas": "0.8 ",
+     "lipidos": "10.1 ",
+     "hc": "8.3 "
+    },
+    {
+     "alimento": " Sopaipillas pasadas",
+     "medida": "1 Unidad ",
+     "equivalencia": "60 gr ",
+     "calorias": "190 ",
+     "proteinas": "0.8 ",
+     "lipidos": "10.1 ",
+     "hc": "13.9 "
+    },
+    {
+     "alimento": "Sopa menudencias ",
+     "medida": "1 Plato ",
+     "equivalencia": null,
+     "calorias": "191 ",
+     "proteinas": "5.9 ",
+     "lipidos": "5.7 ",
+     "hc": "26.8 "
+    },
+    {
+     "alimento": "Sprite",
+     "medida": "1 Vaso chico ",
+     "equivalencia": "100 cc ",
+     "calorias": "41 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "10.2 "
+    },
+    {
+     "alimento": "Sprite Light ",
+     "medida": "1 Vaso chico ",
+     "equivalencia": "100 cc ",
+     "calorias": "1 ",
+     "proteinas": null,
+     "lipidos": null,
+     "hc": "0.2 "
+    },
+    {
+     "alimento": "Tallarines cocidos ",
+     "medida": " 1 Taza",
+     "equivalencia": null,
+     "calorias": "241 ",
+     "proteinas": "8.5 ",
+     "lipidos": "0.2 ",
+     "hc": "52.3 "
+    },
+    {
+     "alimento": "Tallarines c\/salsa de carne ",
+     "medida": "1 taza ",
+     "equivalencia": null,
+     "calorias": "505 ",
+     "proteinas": "38,1 ",
+     "lipidos": "9,5 ",
+     "hc": "68,7 "
+    },
+    {
+     "alimento": "Ternero asado ",
+     "medida": "1 porción ",
+     "equivalencia": "150 gr ",
+     "calorias": "245 ",
+     "proteinas": "31 ",
+     "lipidos": "19 ",
+     "hc": "- "
+    },
+    {
+     "alimento": "Tocino ",
+     "medida": "1 tajada ",
+     "equivalencia": "10 gr ",
+     "calorias": "75 ",
+     "proteinas": "0,3 ",
+     "lipidos": "8,5 ",
+     "hc": "- "
+    },
+    {
+     "alimento": "Tomate ",
+     "medida": "1 m3d ",
+     "equivalencia": "250 gr ",
+     "calorias": "29 ",
+     "proteinas": "1,2 ",
+     "lipidos": "0,6 ",
+     "hc": "4,8 "
+    },
+    {
+     "alimento": "Tomate jugo ",
+     "medida": "1\/2 taza ",
+     "equivalencia": "100 gr ",
+     "calorias": null,
+     "proteinas": null,
+     "lipidos": "0 ",
+     "hc": null
+    },
+    {
+     "alimento": "Tomate al jugo ",
+     "medida": "1 tarro ",
+     "equivalencia": "560 tr ",
+     "calorias": "106 ",
+     "proteinas": "4,5 ",
+     "lipidos": "2,2 ",
+     "hc": "17,9 "
+    },
+    {
+     "alimento": "Tomate jugo ",
+     "medida": "1 tarro ",
+     "equivalencia": "320 gr ",
+     "calorias": "74 ",
+     "proteinas": "3,2 ",
+     "lipidos": "0,6 ",
+     "hc": "13,7 "
+    },
+    {
+     "alimento": "Tomate relleno",
+     "medida": "1 Unid. Reg. ",
+     "equivalencia": null,
+     "calorias": "170 ",
+     "proteinas": "6 ",
+     "lipidos": "10,4 ",
+     "hc": "9,5 "
+    },
+    {
+     "alimento": "Tom Collins",
+     "medida": "1 vaso",
+     "equivalencia": "100 cc",
+     "calorias": 250,
+     "proteinas": "-",
+     "lipidos": "-",
+     "hc": "4º"
+    },
+    {
+     "alimento": "Torta",
+     "medida": "1 porción",
+     "equivalencia": "200 gr.",
+     "calorias": 420,
+     "proteinas": 4,
+     "lipidos": 15,
+     "hc": 44
+    },
+    {
+     "alimento": "Toronja",
+     "medida": "1\/2 ch",
+     "equivalencia": null,
+     "calorias": 50,
+     "proteinas": 1,
+     "lipidos": "-",
+     "hc": "11,8"
+    },
+    {
+     "alimento": "Tortilla de verduras t\/m",
+     "medida": "1 porción",
+     "equivalencia": null,
+     "calorias": 152,
+     "proteinas": "4,5",
+     "lipidos": "-",
+     "hc": "-"
+    },
+    {
+     "alimento": "Tunas",
+     "medida": "1 reg",
+     "equivalencia": "150 gr.",
+     "calorias": 50,
+     "proteinas": 1,
+     "lipidos": "0,4",
+     "hc": "12,2"
+    },
+    {
+     "alimento": "Turín",
+     "medida": "1 rebanada",
+     "equivalencia": "27 gr.",
+     "calorias": 81,
+     "proteinas": "4,2",
+     "lipidos": "6,4",
+     "hc": "1,1"
+    },
+    {
+     "alimento": "Tuti fruti en conserva",
+     "medida": "1 porción",
+     "equivalencia": null,
+     "calorias": 190,
+     "proteinas": 1,
+     "lipidos": "-",
+     "hc": 47
+    },
+    {
+     "alimento": "Ubre de vacuno",
+     "medida": "1 porción",
+     "equivalencia": "100 gr.",
+     "calorias": 179,
+     "proteinas": "14,9",
+     "lipidos": "12,7",
+     "hc": "0,9"
+    },
+    {
+     "alimento": "Ulte",
+     "medida": "1\/2 taza",
+     "equivalencia": "50 gr.",
+     "calorias": 14,
+     "proteinas": "0,8",
+     "lipidos": "0,2",
+     "hc": "2,4"
+    },
+    {
+     "alimento": "Uva",
+     "medida": "1 racimo ch",
+     "equivalencia": "200 gr.",
+     "calorias": 140,
+     "proteinas": "1,2",
+     "lipidos": "1,6",
+     "hc": "32,6"
+    },
+    {
+     "alimento": "Vermouth dulce",
+     "medida": "1 copita",
+     "equivalencia": "30 cc",
+     "calorias": 45,
+     "proteinas": "-",
+     "lipidos": "-",
+     "hc": "4 (4)º"
+    },
+    {
+     "alimento": "Vermouth seco",
+     "medida": "1 copita",
+     "equivalencia": "30 cc",
+     "calorias": 35,
+     "proteinas": "-",
+     "lipidos": "-",
+     "hc": "2 (4)º"
+    },
+    {
+     "alimento": "Vienesas",
+     "medida": "1 unid",
+     "equivalencia": "60 gr.",
+     "calorias": 197,
+     "proteinas": "7,5",
+     "lipidos": "17,8",
+     "hc": "0,6"
+    },
+    {
+     "alimento": "Vino blanco",
+     "medida": "1 vaso",
+     "equivalencia": "100 cc",
+     "calorias": 84,
+     "proteinas": "-",
+     "lipidos": "-",
+     "hc": "2 (12)º"
+    },
+    {
+     "alimento": "Vino dulce",
+     "medida": "1 vaso",
+     "equivalencia": "100 cc",
+     "calorias": 158,
+     "proteinas": "-",
+     "lipidos": "-",
+     "hc": "14 (15)º"
+    },
+    {
+     "alimento": "Vino tinto",
+     "medida": "1 vaso",
+     "equivalencia": "100 cc",
+     "calorias": 70,
+     "proteinas": "-",
+     "lipidos": "-",
+     "hc": "1 (10)º"
+    },
+    {
+     "alimento": "Vodka",
+     "medida": "1 copita",
+     "equivalencia": "50 cc",
+     "calorias": 75,
+     "proteinas": "-",
+     "lipidos": "-",
+     "hc": "(21)º"
+    },
+    {
+     "alimento": "Wisky",
+     "medida": "1 vaso",
+     "equivalencia": "100 cc",
+     "calorias": 200,
+     "proteinas": "-",
+     "lipidos": "-",
+     "hc": "(40)º"
+    },
+    {
+     "alimento": "Yema de huevo",
+     "medida": "1 unid",
+     "equivalencia": "17 gr.",
+     "calorias": 63,
+     "proteinas": "2,8",
+     "lipidos": "5,6",
+     "hc": "0,2"
+    },
+    {
+     "alimento": "Yoghurt batido",
+     "medida": "1 unid",
+     "equivalencia": "175 gr.",
+     "calorias": 159,
+     "proteinas": "6,5",
+     "lipidos": "3,9",
+     "hc": "24,5"
+    },
+    {
+     "alimento": "Yoghurt c\/fruta",
+     "medida": "1 unid",
+     "equivalencia": "175 gr.",
+     "calorias": 159,
+     "proteinas": 6,
+     "lipidos": "3,7",
+     "hc": "25,4"
+    },
+    {
+     "alimento": "Yoghurt sin azúcar",
+     "medida": "1 taza",
+     "equivalencia": "200 gr.",
+     "calorias": 100,
+     "proteinas": "8,2",
+     "lipidos": 2,
+     "hc": "10,4"
+    },
+    {
+     "alimento": "Zapallo cocido",
+     "medida": "1\/2 taza",
+     "equivalencia": "100 gr.",
+     "calorias": 30,
+     "proteinas": "0,4",
+     "lipidos": "0,5",
+     "hc": "6,1"
+    },
+    {
+     "alimento": "Zapallo italiano cocido",
+     "medida": "1 med ó 1\/2 t",
+     "equivalencia": "150 gr.",
+     "calorias": 15,
+     "proteinas": "1,3",
+     "lipidos": "0,3",
+     "hc": "2,3"
+    },
+    {
+     "alimento": "Zanahoria cocida",
+     "medida": "1\/2 taza",
+     "equivalencia": "100 gr.",
+     "calorias": 45,
+     "proteinas": 1,
+     "lipidos": "0,5",
+     "hc": 9
+    },
+    {
+     "alimento": "Zanahoria cruda",
+     "medida": "1 ch",
+     "equivalencia": "60 gr.",
+     "calorias": 29,
+     "proteinas": "0,5",
+     "lipidos": "0,3",
+     "hc": "4,9"
+    },
+    {
+     "alimento": "Zanahoria jugo",
+     "medida": "1\/2 taza",
+     "equivalencia": "100 gr.",
+     "calorias": 40,
+     "proteinas": "-",
+     "lipidos": "-",
+     "hc": 10
+    }
+   ]
