@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles_dos.css" />
+    <title>Calculadora de proteínas diarias</title>
+  </head>
+  <body>
+    <main>
+      <div class="menu">
+        <!-- Boton del home --->
+        <div></div>
+        <a href="lista.html"><div></div></a>
+        <a href="table.html"><div></div></a>
+      </div>
+      <div class="container">
+        <div class="calculadora" id="cambio">
+          <header>
+            <h1>CALCULADORA DE PROTEÍNAS DIARIAS</h1>
+          </header>
+          <div class="formularios">
+            <div class="sobre">
+              <div class="Nombre">
+                <form action="">
+                  <input
+                    class="input"
+                    id="nombre"
+                    type="text"
+                    placeholder="Escribe tu nombre"
+                  />
+                </form>
+              </div>
+              <div class="Edad">
+                <form action="">
+                  <input
+                    class="inputDos"
+                    id="edad"
+                    type="text"
+                    placeholder="Edad"
+                  />
+                </form>
+              </div>
+              <div class="Peso">
+                <form action="">
+                  <input
+                    class="inputDos"
+                    id="peso"
+                    type="text"
+                    placeholder="Peso"
+                  />
+                </form>
+              </div>
+            </div>
+            <div class="actividad">
+              <div class="deporte" id="nada" name="activo">Sedentario</div>
+              <div class="deporte" id="poco" name="activo">Poco activo</div>
+              <div class="deporte" id="normal" name="activo">Activo</div>
+              <div class="deporte" id="muy" name="activo">Muy activo</div>
+            </div>
+          </div>
+
+          <button id="boton" class="boton" value="0">
+            <h1>Calcular</h1>
+          </button>
+        </div>
+      </div>
+    </main>
+    <script src="main.js"></script>
+  </body>
+</html>
